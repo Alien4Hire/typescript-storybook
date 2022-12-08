@@ -1,0 +1,449 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<DropdownMenu /> renders without crashing 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": .c5 {
+  background-color: #ffffff;
+  color: rgba(0,0,0,0.87);
+  -webkit-transition: box-shadow 300ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: box-shadow 300ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  border-radius: 4px;
+  box-shadow: 0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);
+}
+
+.c3 {
+  background-color: #ffffff;
+  color: rgba(0,0,0,0.87);
+  -webkit-transition: box-shadow 300ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: box-shadow 300ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  border-radius: 4px;
+  box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 1px 3px 0px rgba(0,0,0,0.12);
+}
+
+.c9 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  position: relative;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  background-color: transparent;
+  outline: 0;
+  border: 0;
+  margin: 0;
+  border-radius: 0;
+  padding: 0;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  vertical-align: middle;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: inherit;
+}
+
+.c9::-moz-focus-inner {
+  border-style: none;
+}
+
+.c9.Mui-disabled {
+  pointer-events: none;
+  cursor: default;
+}
+
+.c14 {
+  margin: 0;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Source Sans Pro,sans-serif;
+  font-weight: normal;
+  font-size: 1rem;
+  line-height: 1.5;
+  display: block;
+}
+
+.c1 {
+  position: fixed;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  left: 0;
+  background-color: transparent;
+  -webkit-tap-highlight-color: transparent;
+}
+
+.c0 {
+  position: fixed;
+  z-index: 1300;
+  right: 0;
+  bottom: 0;
+  top: 0;
+  left: 0;
+}
+
+.c2 {
+  z-index: -1;
+}
+
+.c7 {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  position: relative;
+  padding-top: 8px;
+  padding-bottom: 8px;
+}
+
+.c11 {
+  min-width: 56px;
+  color: rgba(0,0,0,0.54);
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+}
+
+.c12 {
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  min-width: 0;
+  margin-top: 4px;
+  margin-bottom: 4px;
+}
+
+.c6 {
+  position: absolute;
+  overflow-y: auto;
+  overflow-x: hidden;
+  min-width: 16px;
+  min-height: 16px;
+  max-width: calc(100% - 32px);
+  max-height: calc(100% - 32px);
+  outline: 0;
+}
+
+.c4 {
+  max-height: calc(100% - 96px);
+  -webkit-overflow-scrolling: touch;
+}
+
+.c8 {
+  outline: 0;
+}
+
+.c10 {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Source Sans Pro,sans-serif;
+  font-weight: normal;
+  font-size: 1rem;
+  line-height: 1.5;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: start;
+  -webkit-justify-content: flex-start;
+  -ms-flex-pack: start;
+  justify-content: flex-start;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  position: relative;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  min-height: 48px;
+  padding-top: 6px;
+  padding-bottom: 6px;
+  box-sizing: border-box;
+  white-space: nowrap;
+  padding-left: 16px;
+  padding-right: 16px;
+}
+
+.c10:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  background-color: rgba(0,0,0,0.04);
+}
+
+.c10.Mui-selected {
+  background-color: rgba(0,117,142,0.08);
+}
+
+.c10.Mui-selected.Mui-focusVisible {
+  background-color: rgba(0,117,142,0.2);
+}
+
+.c10.Mui-selected:hover {
+  background-color: rgba(0,117,142,0.12);
+}
+
+.c10.Mui-focusVisible {
+  background-color: rgba(0,0,0,0.12);
+}
+
+.c10.Mui-disabled {
+  opacity: 0.38;
+}
+
+.c10 + .MuiDivider-root {
+  margin-top: 8px;
+  margin-bottom: 8px;
+}
+
+.c10 + .MuiDivider-inset {
+  margin-left: 52px;
+}
+
+.c10 .MuiListItemText-root {
+  margin-top: 0;
+  margin-bottom: 0;
+}
+
+.c10 .MuiListItemText-inset {
+  padding-left: 36px;
+}
+
+.c10 .MuiListItemIcon-root {
+  min-width: 36px;
+}
+
+.c13 {
+  color: #080808 !important;
+  margin-left: 0;
+  padding-left: 0;
+}
+
+.c15 {
+  color: #080808 !important;
+  margin-left: 36px;
+  padding-left: 0;
+}
+
+@media print {
+  .c9 {
+    color-adjust: exact;
+  }
+}
+
+@media (hover:none) {
+  .c10:hover {
+    background-color: transparent;
+  }
+}
+
+@media (hover:none) {
+  .c10.Mui-selected:hover {
+    background-color: rgba(0,117,142,0.08);
+  }
+}
+
+@media (min-width:660px) {
+  .c10 {
+    min-height: auto;
+  }
+}
+
+<body
+    style="padding-right: 1024px; overflow: hidden;"
+  >
+    <div
+      aria-hidden="true"
+    />
+    <div
+      class="c0 MuiModal-root MuiPopover-root-kLYbPy MuiPopover-root MuiMenu-root-egkglY MuiMenu-root"
+      role="presentation"
+    >
+      <div
+        aria-hidden="true"
+        class="c1 MuiBackdrop-root MuiBackdrop-invisible c2"
+        style="opacity: 1; webkit-transition: opacity 225ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; transition: opacity 225ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;"
+      />
+      <div
+        data-test="sentinelStart"
+        tabindex="0"
+      />
+      <div
+        class="c3 MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 c4 MuiPaper-root-jrxuSB c5 MuiMenu-paper MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation8 c6 MuiPopover-paper"
+        style="opacity: 1; transform: scale(1, 1); max-height: 216px; transition: opacity 0ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,transform 0ms cubic-bezier(0.4, 0, 0.2, 1) 0ms; top: 16px; left: 16px; transform-origin: -16px -16px;"
+        tabindex="-1"
+      >
+        <ul
+          aria-labelledby="long-button"
+          class="c7 MuiList-root MuiList-padding c8 MuiMenu-list"
+          role="menu"
+          tabindex="-1"
+        >
+          <li
+            class="c9 MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root Mui-focusVisible c10"
+            role="menuitem"
+            tabindex="0"
+          >
+            <div
+              class="c11 MuiListItemIcon-root"
+            >
+              <svg>
+                trash.svg
+              </svg>
+            </div>
+            <div
+              class="c12 MuiListItemText-root c13"
+              color="#080808"
+              option="[object Object]"
+            >
+              <span
+                class="c14 MuiTypography-root MuiTypography-body1 MuiListItemText-primary"
+              >
+                Remove from Resource Structure
+              </span>
+            </div>
+          </li>
+          <li
+            class="c9 MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root c10"
+            role="menuitem"
+            tabindex="-1"
+          >
+            <div
+              class="c11 MuiListItemIcon-root"
+            >
+              <svg>
+                list_left.svg
+              </svg>
+            </div>
+            <div
+              class="c12 MuiListItemText-root c13"
+              color="#080808"
+              option="[object Object]"
+            >
+              <span
+                class="c14 MuiTypography-root MuiTypography-body1 MuiListItemText-primary"
+              >
+                Show Location in Structure
+              </span>
+            </div>
+          </li>
+          <li
+            class="c9 MuiMenuItem-root MuiMenuItem-gutters MuiButtonBase-root c10"
+            role="menuitem"
+            tabindex="-1"
+          >
+            <div
+              class="c12 MuiListItemText-root c15"
+              color="#080808"
+              option="[object Object]"
+            >
+              <span
+                class="c14 MuiTypography-root MuiTypography-body1 MuiListItemText-primary"
+              >
+                Apply Activity Setting
+              </span>
+            </div>
+          </li>
+        </ul>
+      </div>
+      <div
+        data-test="sentinelEnd"
+        tabindex="0"
+      />
+    </div>
+  </body>,
+  "container": @media print {
+
+}
+
+@media (hover:none) {
+
+}
+
+@media (hover:none) {
+
+}
+
+@media (min-width:660px) {
+
+}
+
+<div
+    aria-hidden="true"
+  />,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

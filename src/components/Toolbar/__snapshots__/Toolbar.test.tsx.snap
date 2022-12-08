@@ -1,0 +1,1056 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Toolbar /> Default component state Should match default snapshot 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": .c0 {
+  background-color: #ffffff;
+  color: rgba(0,0,0,0.87);
+  -webkit-transition: box-shadow 300ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: box-shadow 300ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+}
+
+.c7 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  position: relative;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  background-color: transparent;
+  outline: 0;
+  border: 0;
+  margin: 0;
+  border-radius: 0;
+  padding: 0;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  vertical-align: middle;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: inherit;
+}
+
+.c7::-moz-focus-inner {
+  border-style: none;
+}
+
+.c7.Mui-disabled {
+  pointer-events: none;
+  cursor: default;
+}
+
+.c12 {
+  margin: 0;
+  color: #080808;
+  font-size: 32px;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 1.167;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 100%;
+  box-sizing: border-box;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  position: fixed;
+  z-index: 1100;
+  top: 0;
+  left: auto;
+  right: 0;
+  background-color: #00758e;
+  color: #fff;
+}
+
+.c14 {
+  font-size: 14px;
+  text-transform: uppercase;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Source Sans Pro,sans-serif;
+  font-weight: normal;
+  line-height: 1.75;
+  min-width: 64px;
+  padding: 6px 8px;
+  border-radius: 4px;
+  -webkit-transition: background-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,box-shadow 250ms cubic-bezier(0.4,0,0.2,1) 0ms,border-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,color 250ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: background-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,box-shadow 250ms cubic-bezier(0.4,0,0.2,1) 0ms,border-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,color 250ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  color: #00758e;
+}
+
+.c14:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  background-color: rgba(0,117,142,0.04);
+}
+
+.c14.Mui-disabled {
+  color: rgba(0,0,0,0.26);
+}
+
+.c15 {
+  display: inherit;
+  margin-right: 8px;
+  margin-left: -4px;
+}
+
+.c15 > *:nth-of-type(1) {
+  font-size: 20px;
+}
+
+.c8 {
+  font-size: 14px;
+  text-transform: uppercase;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Source Sans Pro,sans-serif;
+  font-weight: normal;
+  line-height: 1.25;
+  max-width: 360px;
+  min-width: 90px;
+  position: relative;
+  min-height: 48px;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 12px 16px;
+  overflow: hidden;
+  white-space: normal;
+  text-align: center;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  color: rgba(0,0,0,0.6);
+}
+
+.c8.Mui-selected {
+  color: #00758e;
+}
+
+.c8.Mui-disabled {
+  color: rgba(0,0,0,0.38);
+}
+
+.c10 {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-left: 16px;
+  padding-right: 16px;
+  min-height: 56px;
+}
+
+.c3 {
+  overflow: hidden;
+  min-height: 48px;
+  -webkit-overflow-scrolling: touch;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c5 {
+  position: relative;
+  display: inline-block;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  white-space: nowrap;
+  overflow-x: hidden;
+  width: 100%;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c9 {
+  position: absolute;
+  height: 2px;
+  bottom: 0;
+  width: 100%;
+  -webkit-transition: all 300ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: all 300ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  background-color: #00758e;
+}
+
+.c13 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-flow: row nowrap;
+  -ms-flex-flow: row nowrap;
+  flex-flow: row nowrap;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  text-align: center;
+}
+
+.c13 button {
+  border-radius: 0px !important;
+}
+
+.c13 button:last-of-type {
+  border-left: 1px solid #f3f3f3;
+}
+
+.c4 {
+  border-top: 1px solid #989898;
+  border-bottom: 1px solid #989898;
+}
+
+.c4 button {
+  color: #686868;
+  padding: 16px;
+}
+
+.c4 .MuiTabs-indicator {
+  background: #da1b2c;
+  height: 3px;
+}
+
+.c2 {
+  background-color: #ffffff !important;
+  color: #080808;
+  top: 64px !important;
+  width: calc(100% - 72px);
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  box-shadow: none !important;
+}
+
+.c11 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-flow: row nowrap;
+  -ms-flex-flow: row nowrap;
+  flex-flow: row nowrap;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  padding: 10px 50px;
+}
+
+.c16 {
+  width: 24px;
+  height: 24px;
+  color: #222;
+  fill: #222;
+  font-weight: 200;
+  background-color: transparent;
+}
+
+.c17 {
+  width: 24px;
+  height: 24px;
+  color: #222;
+  fill: #222;
+  font-weight: 200;
+  background-color: transparent;
+}
+
+.c18 {
+  width: 24px;
+  height: 24px;
+  color: #222;
+  fill: #222;
+  font-weight: 200;
+  background-color: transparent;
+}
+
+.c19 {
+  width: 24px;
+  height: 24px;
+  color: #222;
+  fill: #222;
+  font-weight: 200;
+  background-color: transparent;
+}
+
+.c20 {
+  width: 24px;
+  height: 24px;
+  color: #222;
+  fill: #222;
+  font-weight: 200;
+  background-color: transparent;
+}
+
+@media print {
+  .c7 {
+    color-adjust: exact;
+  }
+}
+
+@media print {
+  .c1 {
+    position: absolute;
+  }
+}
+
+@media (hover:none) {
+  .c14:hover {
+    background-color: transparent;
+  }
+}
+
+@media (min-width:660px) {
+  .c10 {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+
+@media (min-width:0px) and (orientation:landscape) {
+  .c10 {
+    min-height: 48px;
+  }
+}
+
+@media (min-width:660px) {
+  .c10 {
+    min-height: 64px;
+  }
+}
+
+@media (max-width:659.95px) {
+  .c3 .MuiTabs-scrollButtons {
+    display: none;
+  }
+}
+
+<body>
+    <div>
+      <header
+        class="c0 MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 c1 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed c2 mui-fixed"
+      >
+        <div
+          class="c3 MuiTabs-root c4"
+        >
+          <div
+            class="c5 MuiTabs-scroller MuiTabs-fixed"
+            style="overflow: hidden; margin-bottom: 0px;"
+          >
+            <div
+              class="c6 MuiTabs-flexContainer MuiTabs-centered"
+              role="tablist"
+            >
+              <button
+                aria-selected="true"
+                class="c7 MuiButtonBase-root c8 MuiTab-root MuiTab-textColorPrimary Mui-selected"
+                role="tab"
+                tabindex="0"
+                type="button"
+              >
+                Resource Structure
+              </button>
+              <button
+                aria-selected="false"
+                class="c7 MuiButtonBase-root c8 MuiTab-root MuiTab-textColorPrimary"
+                role="tab"
+                tabindex="-1"
+                type="button"
+              >
+                Prebuilt Course
+              </button>
+            </div>
+            <span
+              class="c9 MuiTabs-indicator"
+              style="left: 0px; width: 0px;"
+            />
+          </div>
+        </div>
+        <div
+          class="c10 MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular c11"
+        >
+          <h1
+            class="c12 MuiTypography-root MuiTypography-h1"
+          >
+            Resource Structure
+          </h1>
+          <div
+            class="c13"
+          >
+            <button
+              class="c7 MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root c14"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="c15 MuiButton-startIcon MuiButton-iconSizeMedium"
+              >
+                <svg
+                  class="c16"
+                >
+                  slider.svg
+                </svg>
+              </span>
+              Filter Resources
+            </button>
+            <button
+              class="c7 MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root c14"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="c15 MuiButton-startIcon MuiButton-iconSizeMedium"
+              >
+                <svg
+                  class="c17"
+                >
+                  arrows.svg
+                </svg>
+              </span>
+              Reorganize
+            </button>
+            <button
+              class="c7 MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root c14"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="c15 MuiButton-startIcon MuiButton-iconSizeMedium"
+              >
+                <svg
+                  class="c18"
+                >
+                  search.svg
+                </svg>
+              </span>
+              Find and Replace
+            </button>
+            <button
+              class="c7 MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root Mui-disabled c14"
+              disabled=""
+              tabindex="-1"
+              type="button"
+            >
+              <span
+                class="c15 MuiButton-startIcon MuiButton-iconSizeMedium"
+              >
+                <svg
+                  class="c19"
+                >
+                  cog.svg
+                </svg>
+              </span>
+              Activity Settings
+            </button>
+            <button
+              class="c7 MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root c14"
+              tabindex="0"
+              type="button"
+            >
+              <span
+                class="c15 MuiButton-startIcon MuiButton-iconSizeMedium"
+              >
+                <svg
+                  class="c20"
+                >
+                  refresh.svg
+                </svg>
+              </span>
+              Sync to Prebuilt
+            </button>
+          </div>
+        </div>
+      </header>
+    </div>
+  </body>,
+  "container": .c0 {
+  background-color: #ffffff;
+  color: rgba(0,0,0,0.87);
+  -webkit-transition: box-shadow 300ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: box-shadow 300ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+}
+
+.c7 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  position: relative;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  background-color: transparent;
+  outline: 0;
+  border: 0;
+  margin: 0;
+  border-radius: 0;
+  padding: 0;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  vertical-align: middle;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: inherit;
+}
+
+.c7::-moz-focus-inner {
+  border-style: none;
+}
+
+.c7.Mui-disabled {
+  pointer-events: none;
+  cursor: default;
+}
+
+.c12 {
+  margin: 0;
+  color: #080808;
+  font-size: 32px;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 1.167;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 100%;
+  box-sizing: border-box;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  position: fixed;
+  z-index: 1100;
+  top: 0;
+  left: auto;
+  right: 0;
+  background-color: #00758e;
+  color: #fff;
+}
+
+.c14 {
+  font-size: 14px;
+  text-transform: uppercase;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Source Sans Pro,sans-serif;
+  font-weight: normal;
+  line-height: 1.75;
+  min-width: 64px;
+  padding: 6px 8px;
+  border-radius: 4px;
+  -webkit-transition: background-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,box-shadow 250ms cubic-bezier(0.4,0,0.2,1) 0ms,border-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,color 250ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: background-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,box-shadow 250ms cubic-bezier(0.4,0,0.2,1) 0ms,border-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,color 250ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  color: #00758e;
+}
+
+.c14:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  background-color: rgba(0,117,142,0.04);
+}
+
+.c14.Mui-disabled {
+  color: rgba(0,0,0,0.26);
+}
+
+.c15 {
+  display: inherit;
+  margin-right: 8px;
+  margin-left: -4px;
+}
+
+.c15 > *:nth-of-type(1) {
+  font-size: 20px;
+}
+
+.c8 {
+  font-size: 14px;
+  text-transform: uppercase;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Source Sans Pro,sans-serif;
+  font-weight: normal;
+  line-height: 1.25;
+  max-width: 360px;
+  min-width: 90px;
+  position: relative;
+  min-height: 48px;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  padding: 12px 16px;
+  overflow: hidden;
+  white-space: normal;
+  text-align: center;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  color: rgba(0,0,0,0.6);
+}
+
+.c8.Mui-selected {
+  color: #00758e;
+}
+
+.c8.Mui-disabled {
+  color: rgba(0,0,0,0.38);
+}
+
+.c10 {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding-left: 16px;
+  padding-right: 16px;
+  min-height: 56px;
+}
+
+.c3 {
+  overflow: hidden;
+  min-height: 48px;
+  -webkit-overflow-scrolling: touch;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c5 {
+  position: relative;
+  display: inline-block;
+  -webkit-flex: 1 1 auto;
+  -ms-flex: 1 1 auto;
+  flex: 1 1 auto;
+  white-space: nowrap;
+  overflow-x: hidden;
+  width: 100%;
+}
+
+.c6 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+}
+
+.c9 {
+  position: absolute;
+  height: 2px;
+  bottom: 0;
+  width: 100%;
+  -webkit-transition: all 300ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: all 300ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  background-color: #00758e;
+}
+
+.c13 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-flow: row nowrap;
+  -ms-flex-flow: row nowrap;
+  flex-flow: row nowrap;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  text-align: center;
+}
+
+.c13 button {
+  border-radius: 0px !important;
+}
+
+.c13 button:last-of-type {
+  border-left: 1px solid #f3f3f3;
+}
+
+.c4 {
+  border-top: 1px solid #989898;
+  border-bottom: 1px solid #989898;
+}
+
+.c4 button {
+  color: #686868;
+  padding: 16px;
+}
+
+.c4 .MuiTabs-indicator {
+  background: #da1b2c;
+  height: 3px;
+}
+
+.c2 {
+  background-color: #ffffff !important;
+  color: #080808;
+  top: 64px !important;
+  width: calc(100% - 72px);
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  box-shadow: none !important;
+}
+
+.c11 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-flow: row nowrap;
+  -ms-flex-flow: row nowrap;
+  flex-flow: row nowrap;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  padding: 10px 50px;
+}
+
+.c16 {
+  width: 24px;
+  height: 24px;
+  color: #222;
+  fill: #222;
+  font-weight: 200;
+  background-color: transparent;
+}
+
+.c17 {
+  width: 24px;
+  height: 24px;
+  color: #222;
+  fill: #222;
+  font-weight: 200;
+  background-color: transparent;
+}
+
+.c18 {
+  width: 24px;
+  height: 24px;
+  color: #222;
+  fill: #222;
+  font-weight: 200;
+  background-color: transparent;
+}
+
+.c19 {
+  width: 24px;
+  height: 24px;
+  color: #222;
+  fill: #222;
+  font-weight: 200;
+  background-color: transparent;
+}
+
+.c20 {
+  width: 24px;
+  height: 24px;
+  color: #222;
+  fill: #222;
+  font-weight: 200;
+  background-color: transparent;
+}
+
+@media print {
+  .c7 {
+    color-adjust: exact;
+  }
+}
+
+@media print {
+  .c1 {
+    position: absolute;
+  }
+}
+
+@media (hover:none) {
+  .c14:hover {
+    background-color: transparent;
+  }
+}
+
+@media (min-width:660px) {
+  .c10 {
+    padding-left: 24px;
+    padding-right: 24px;
+  }
+}
+
+@media (min-width:0px) and (orientation:landscape) {
+  .c10 {
+    min-height: 48px;
+  }
+}
+
+@media (min-width:660px) {
+  .c10 {
+    min-height: 64px;
+  }
+}
+
+@media (max-width:659.95px) {
+  .c3 .MuiTabs-scrollButtons {
+    display: none;
+  }
+}
+
+<div>
+    <header
+      class="c0 MuiPaper-root MuiPaper-elevation MuiPaper-elevation4 c1 MuiAppBar-root MuiAppBar-colorPrimary MuiAppBar-positionFixed c2 mui-fixed"
+    >
+      <div
+        class="c3 MuiTabs-root c4"
+      >
+        <div
+          class="c5 MuiTabs-scroller MuiTabs-fixed"
+          style="overflow: hidden; margin-bottom: 0px;"
+        >
+          <div
+            class="c6 MuiTabs-flexContainer MuiTabs-centered"
+            role="tablist"
+          >
+            <button
+              aria-selected="true"
+              class="c7 MuiButtonBase-root c8 MuiTab-root MuiTab-textColorPrimary Mui-selected"
+              role="tab"
+              tabindex="0"
+              type="button"
+            >
+              Resource Structure
+            </button>
+            <button
+              aria-selected="false"
+              class="c7 MuiButtonBase-root c8 MuiTab-root MuiTab-textColorPrimary"
+              role="tab"
+              tabindex="-1"
+              type="button"
+            >
+              Prebuilt Course
+            </button>
+          </div>
+          <span
+            class="c9 MuiTabs-indicator"
+            style="left: 0px; width: 0px;"
+          />
+        </div>
+      </div>
+      <div
+        class="c10 MuiToolbar-root MuiToolbar-gutters MuiToolbar-regular c11"
+      >
+        <h1
+          class="c12 MuiTypography-root MuiTypography-h1"
+        >
+          Resource Structure
+        </h1>
+        <div
+          class="c13"
+        >
+          <button
+            class="c7 MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root c14"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="c15 MuiButton-startIcon MuiButton-iconSizeMedium"
+            >
+              <svg
+                class="c16"
+              >
+                slider.svg
+              </svg>
+            </span>
+            Filter Resources
+          </button>
+          <button
+            class="c7 MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root c14"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="c15 MuiButton-startIcon MuiButton-iconSizeMedium"
+            >
+              <svg
+                class="c17"
+              >
+                arrows.svg
+              </svg>
+            </span>
+            Reorganize
+          </button>
+          <button
+            class="c7 MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root c14"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="c15 MuiButton-startIcon MuiButton-iconSizeMedium"
+            >
+              <svg
+                class="c18"
+              >
+                search.svg
+              </svg>
+            </span>
+            Find and Replace
+          </button>
+          <button
+            class="c7 MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root Mui-disabled c14"
+            disabled=""
+            tabindex="-1"
+            type="button"
+          >
+            <span
+              class="c15 MuiButton-startIcon MuiButton-iconSizeMedium"
+            >
+              <svg
+                class="c19"
+              >
+                cog.svg
+              </svg>
+            </span>
+            Activity Settings
+          </button>
+          <button
+            class="c7 MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root c14"
+            tabindex="0"
+            type="button"
+          >
+            <span
+              class="c15 MuiButton-startIcon MuiButton-iconSizeMedium"
+            >
+              <svg
+                class="c20"
+              >
+                refresh.svg
+              </svg>
+            </span>
+            Sync to Prebuilt
+          </button>
+        </div>
+      </div>
+    </header>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

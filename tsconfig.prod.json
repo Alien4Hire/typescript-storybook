@@ -1,0 +1,8 @@
+{
+  "_comment": "Not yet implemented - may not be possible with `react-scripts build`",
+  "compilerOptions": {
+    "sourceMap": false
+  },
+  "extends": "./tsconfig.json",
+  "exclude": ["**/__tests__/", "./**/*.test.*"]
+}

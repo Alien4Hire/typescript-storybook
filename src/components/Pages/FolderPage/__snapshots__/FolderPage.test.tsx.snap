@@ -1,0 +1,140 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<FolderPage /> renders without crashing 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": .c0 {
+  display: inline-block;
+  color: #00758e;
+  -webkit-animation: epmXAj 1.4s linear infinite;
+  animation: epmXAj 1.4s linear infinite;
+}
+
+.c1 {
+  display: block;
+}
+
+.c2 {
+  stroke: currentColor;
+  stroke-dasharray: 80px,200px;
+  stroke-dashoffset: 0;
+  -webkit-animation: jzfMP 1.4s ease-in-out infinite;
+  animation: jzfMP 1.4s ease-in-out infinite;
+}
+
+<body>
+    <div>
+      <span
+        class="c0 MuiCircularProgress-root MuiCircularProgress-indeterminate MuiCircularProgress-colorPrimary"
+        role="progressbar"
+        style="width: 40px; height: 40px;"
+      >
+        <svg
+          class="c1 MuiCircularProgress-svg"
+          viewBox="22 22 44 44"
+        >
+          <circle
+            class="c2 MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate"
+            cx="44"
+            cy="44"
+            fill="none"
+            r="20.2"
+            stroke-width="3.6"
+          />
+        </svg>
+      </span>
+    </div>
+  </body>,
+  "container": .c0 {
+  display: inline-block;
+  color: #00758e;
+  -webkit-animation: epmXAj 1.4s linear infinite;
+  animation: epmXAj 1.4s linear infinite;
+}
+
+.c1 {
+  display: block;
+}
+
+.c2 {
+  stroke: currentColor;
+  stroke-dasharray: 80px,200px;
+  stroke-dashoffset: 0;
+  -webkit-animation: jzfMP 1.4s ease-in-out infinite;
+  animation: jzfMP 1.4s ease-in-out infinite;
+}
+
+<div>
+    <span
+      class="c0 MuiCircularProgress-root MuiCircularProgress-indeterminate MuiCircularProgress-colorPrimary"
+      role="progressbar"
+      style="width: 40px; height: 40px;"
+    >
+      <svg
+        class="c1 MuiCircularProgress-svg"
+        viewBox="22 22 44 44"
+      >
+        <circle
+          class="c2 MuiCircularProgress-circle MuiCircularProgress-circleIndeterminate"
+          cx="44"
+          cy="44"
+          fill="none"
+          r="20.2"
+          stroke-width="3.6"
+        />
+      </svg>
+    </span>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

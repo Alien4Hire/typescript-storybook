@@ -1,0 +1,2208 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<Modal /> renders without crashing 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": .c5 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  fill: currentColor;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  font-size: 1.5rem;
+  color: #00758e;
+}
+
+.c14 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  fill: currentColor;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  font-size: 1.5rem;
+}
+
+.c33 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  fill: currentColor;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  font-size: 1.25rem;
+}
+
+.c23 {
+  height: 0;
+  overflow: hidden;
+  -webkit-transition: height 300ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: height 300ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  visibility: hidden;
+}
+
+.c24 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+}
+
+.c25 {
+  width: 100%;
+}
+
+.c15 {
+  background-color: #ffffff;
+  color: rgba(0,0,0,0.87);
+  -webkit-transition: box-shadow 300ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: box-shadow 300ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  border-radius: 4px;
+  box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 1px 3px 0px rgba(0,0,0,0.12);
+}
+
+.c17 {
+  position: relative;
+  -webkit-transition: margin 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: margin 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  overflow-anchor: none;
+  border-radius: 0;
+}
+
+.c17:before {
+  position: absolute;
+  left: 0;
+  top: -1px;
+  right: 0;
+  height: 1px;
+  content: "";
+  opacity: 1;
+  background-color: rgba(0,0,0,0.12);
+  -webkit-transition: opacity 150ms cubic-bezier(0.4,0,0.2,1) 0ms,background-color 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: opacity 150ms cubic-bezier(0.4,0,0.2,1) 0ms,background-color 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c17:first-of-type:before {
+  display: none;
+}
+
+.c17.Mui-expanded:before {
+  opacity: 0;
+}
+
+.c17.Mui-expanded:first-of-type {
+  margin-top: 0;
+}
+
+.c17.Mui-expanded:last-of-type {
+  margin-bottom: 0;
+}
+
+.c17.Mui-expanded + .c16.Mui-expanded:before {
+  display: none;
+}
+
+.c17.Mui-disabled {
+  background-color: rgba(0,0,0,0.12);
+}
+
+.c17:first-of-type {
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+.c17:last-of-type {
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+.c17.Mui-expanded {
+  margin: 16px 0;
+}
+
+.c26 {
+  padding: 8px 16px 16px;
+}
+
+.c3 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  position: relative;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  background-color: transparent;
+  outline: 0;
+  border: 0;
+  margin: 0;
+  border-radius: 0;
+  padding: 0;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  vertical-align: middle;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: inherit;
+}
+
+.c3::-moz-focus-inner {
+  border-style: none;
+}
+
+.c3.Mui-disabled {
+  pointer-events: none;
+  cursor: default;
+}
+
+.c19 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  min-height: 48px;
+  padding: 0px 16px;
+  -webkit-transition: min-height 150ms cubic-bezier(0.4,0,0.2,1) 0ms,background-color 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: min-height 150ms cubic-bezier(0.4,0,0.2,1) 0ms,background-color 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c19.Mui-focusVisible {
+  background-color: rgba(0,0,0,0.12);
+}
+
+.c19.Mui-disabled {
+  opacity: 0.38;
+}
+
+.c19:hover:not(.Mui-disabled) {
+  cursor: pointer;
+}
+
+.c19.Mui-expanded {
+  min-height: 64px;
+}
+
+.c20 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  margin: 12px 0;
+  -webkit-transition: margin 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: margin 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c20.Mui-expanded {
+  margin: 20px 0;
+}
+
+.c22 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  color: rgba(0,0,0,0.54);
+  -webkit-transform: rotate(0deg);
+  -ms-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -webkit-transition: -webkit-transform 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  -webkit-transition: transform 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: transform 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c22.Mui-expanded {
+  -webkit-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+
+.c4 {
+  text-align: center;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  font-size: 1.5rem;
+  padding: 8px;
+  border-radius: 50%;
+  overflow: visible;
+  color: rgba(0,0,0,0.54);
+  -webkit-transition: background-color 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: background-color 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c4:hover {
+  background-color: rgba(0,0,0,0.04);
+}
+
+.c4.Mui-disabled {
+  background-color: transparent;
+  color: rgba(0,0,0,0.26);
+}
+
+.c2 {
+  margin: 0;
+  color: #080808;
+  font-size: 32px;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 1.167;
+  line-height: 48px;
+}
+
+.c7 {
+  margin: 0;
+  color: #080808;
+  font-size: 16px;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 1.235;
+  margin-bottom: 18px;
+}
+
+.c21 {
+  margin: 0;
+  color: #080808;
+  font-size: 16px;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 1.235;
+}
+
+.c36 {
+  margin: 0;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Source Sans Pro,sans-serif;
+  font-weight: normal;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.c8 {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Source Sans Pro,sans-serif;
+  font-weight: normal;
+  font-size: 1rem;
+  line-height: 1.4375em;
+  color: rgba(0,0,0,0.87);
+  box-sizing: border-box;
+  position: relative;
+  cursor: text;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100%;
+}
+
+.c8.Mui-disabled {
+  color: rgba(0,0,0,0.38);
+  cursor: default;
+}
+
+.c12 {
+  font: inherit;
+  -webkit-letter-spacing: inherit;
+  -moz-letter-spacing: inherit;
+  -ms-letter-spacing: inherit;
+  letter-spacing: inherit;
+  color: currentColor;
+  padding: 4px 0 5px;
+  border: 0;
+  box-sizing: content-box;
+  background: none;
+  height: 1.4375em;
+  margin: 0;
+  -webkit-tap-highlight-color: transparent;
+  display: block;
+  min-width: 0;
+  width: 100%;
+  -webkit-animation-name: mui-auto-fill-cancel;
+  animation-name: mui-auto-fill-cancel;
+  -webkit-animation-duration: 10ms;
+  animation-duration: 10ms;
+}
+
+.c12::-webkit-input-placeholder {
+  color: currentColor;
+  opacity: 0.42;
+  -webkit-transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c12::-moz-placeholder {
+  color: currentColor;
+  opacity: 0.42;
+  -webkit-transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c12:-ms-input-placeholder {
+  color: currentColor;
+  opacity: 0.42;
+  -webkit-transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c12::-ms-input-placeholder {
+  color: currentColor;
+  opacity: 0.42;
+  -webkit-transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c12:focus {
+  outline: 0;
+}
+
+.c12:invalid {
+  box-shadow: none;
+}
+
+.c12::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c11::-webkit-input-placeholder {
+  opacity: 0 !important;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c11::-moz-placeholder {
+  opacity: 0 !important;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c11:-ms-input-placeholder {
+  opacity: 0 !important;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c11::-ms-input-placeholder {
+  opacity: 0 !important;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c11:focus::-webkit-input-placeholder {
+  opacity: 0.42;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c11:focus::-moz-placeholder {
+  opacity: 0.42;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c11:focus:-ms-input-placeholder {
+  opacity: 0.42;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c11:focus::-ms-input-placeholder {
+  opacity: 0.42;
+}
+
+.c12.Mui-disabled {
+  opacity: 1;
+  -webkit-text-fill-color: rgba(0,0,0,0.38);
+}
+
+.c12:-webkit-autofill {
+  -webkit-animation-duration: 5000s;
+  animation-duration: 5000s;
+  -webkit-animation-name: mui-auto-fill;
+  animation-name: mui-auto-fill;
+}
+
+.c37 {
+  font-size: 14px;
+  text-transform: uppercase;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Source Sans Pro,sans-serif;
+  font-weight: normal;
+  line-height: 1.75;
+  min-width: 64px;
+  padding: 6px 16px;
+  border-radius: 4px;
+  -webkit-transition: background-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,box-shadow 250ms cubic-bezier(0.4,0,0.2,1) 0ms,border-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,color 250ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: background-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,box-shadow 250ms cubic-bezier(0.4,0,0.2,1) 0ms,border-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,color 250ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  color: #fff;
+  background-color: #00758e;
+  box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+}
+
+.c37:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  background-color: rgb(0,81,99);
+  box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+}
+
+.c37:active {
+  box-shadow: 0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);
+}
+
+.c37.Mui-focusVisible {
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);
+}
+
+.c37.Mui-disabled {
+  color: rgba(0,0,0,0.26);
+  box-shadow: none;
+  background-color: rgba(0,0,0,0.12);
+}
+
+.c29 {
+  padding: 9px;
+  border-radius: 50%;
+}
+
+.c31 {
+  cursor: inherit;
+  position: absolute;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  z-index: 1;
+}
+
+.c28 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  cursor: pointer;
+  vertical-align: middle;
+  -webkit-tap-highlight-color: transparent;
+  margin-left: -11px;
+  margin-right: 16px;
+}
+
+.c28.Mui-disabled {
+  cursor: default;
+}
+
+.c28 .MuiFormControlLabel-label.Mui-disabled {
+  color: rgba(0,0,0,0.38);
+}
+
+.c27 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.c9 {
+  position: relative;
+}
+
+.c13 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 0.01em;
+  max-height: 2em;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  white-space: nowrap;
+  color: rgba(0,0,0,0.54);
+  margin-left: 8px;
+}
+
+.c32 {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c34 {
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+}
+
+.c35 {
+  left: 0;
+  position: absolute;
+  -webkit-transform: scale(0);
+  -ms-transform: scale(0);
+  transform: scale(0);
+  -webkit-transition: -webkit-transform 150ms cubic-bezier(0.4,0,1,1) 0ms;
+  -webkit-transition: transform 150ms cubic-bezier(0.4,0,1,1) 0ms;
+  transition: transform 150ms cubic-bezier(0.4,0,1,1) 0ms;
+}
+
+.c30 {
+  color: rgba(0,0,0,0.6);
+}
+
+.c30:hover {
+  background-color: rgba(0,117,142,0.04);
+}
+
+.c30.Mui-checked {
+  color: #00758e;
+}
+
+.c30.Mui-disabled {
+  color: rgba(0,0,0,0.26);
+}
+
+.c0 {
+  width: 399px;
+  background-color: #ffffff;
+  height: 100%;
+  border-right: 1px solid rgb(0 0 0 / 20%);
+  overflow: auto;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin: 10px 20px;
+}
+
+.c6 {
+  padding: 18px 20px;
+  border-bottom: 1px solid #dddddd;
+}
+
+.c18 {
+  margin: 0 !important;
+  border-radius: 0;
+  border: 1px solid #dddddd;
+}
+
+.c10 {
+  border: 1px solid #686868;
+  padding: 7px 10px 7px 7px;
+  width: 100%;
+}
+
+.c10 input {
+  padding: 0;
+}
+
+.c10 input::-webkit-input-placeholder {
+  line-height: 20px;
+  color: #686868;
+  opacity: 1;
+  font-style: italic;
+}
+
+.c10 input::-moz-placeholder {
+  line-height: 20px;
+  color: #686868;
+  opacity: 1;
+  font-style: italic;
+}
+
+.c10 input:-ms-input-placeholder {
+  line-height: 20px;
+  color: #686868;
+  opacity: 1;
+  font-style: italic;
+}
+
+.c10 input::placeholder {
+  line-height: 20px;
+  color: #686868;
+  opacity: 1;
+  font-style: italic;
+}
+
+.c38 {
+  text-transform: none;
+  margin: 18px 16px;
+  font-weight: 400;
+}
+
+@supports (-ms-ime-align:auto) {
+  .c17:last-of-type {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+}
+
+@media print {
+  .c3 {
+    color-adjust: exact;
+  }
+}
+
+@media (hover:none) {
+  .c4:hover {
+    background-color: transparent;
+  }
+}
+
+@media (hover:none) {
+  .c37:hover {
+    background-color: #00758e;
+  }
+}
+
+@media (hover:none) {
+  .c30:hover {
+    background-color: transparent;
+  }
+}
+
+<body>
+    <div>
+      <div
+        class="c0 MuiBox-root"
+      >
+        <div
+          class="c1 MuiBox-root"
+        >
+          <h1
+            class="c2 MuiTypography-root MuiTypography-h1"
+          >
+            Resource Structure
+          </h1>
+          <button
+            class="c3 MuiButtonBase-root c4 MuiIconButton-root MuiIconButton-sizeMedium"
+            tabindex="0"
+            type="button"
+          >
+            <svg
+              aria-hidden="true"
+              class="c5 MuiSvgIcon-root MuiSvgIcon-colorPrimary MuiSvgIcon-fontSizeMedium"
+              data-testid="CloseIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+              />
+            </svg>
+          </button>
+        </div>
+        <div
+          class="c6 MuiBox-root"
+        >
+          <h4
+            class="c7 MuiTypography-root MuiTypography-h4"
+          >
+            Keyword Search
+          </h4>
+          <div
+            class="c8 c9 MuiInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-adornedEnd c10"
+          >
+            <input
+              class="c11 MuiInput-input-ulsMd c12 MuiInput-input MuiInputBase-input MuiInputBase-inputAdornedEnd"
+              placeholder="Search by keyword..."
+              type="text"
+              value=""
+            />
+            <div
+              class="c13 MuiInputAdornment-root MuiInputAdornment-positionEnd"
+            >
+              <svg
+                aria-hidden="true"
+                class="c14 MuiSvgIcon-root MuiSvgIcon-fontSizeMedium"
+                data-testid="SearchIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+                />
+              </svg>
+            </div>
+          </div>
+        </div>
+        <div
+          class="c15 MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 c16 c17 MuiAccordion-root MuiAccordion-rounded MuiAccordion-gutters c18"
+        >
+          <div
+            aria-expanded="false"
+            class="c3 MuiButtonBase-root c19 MuiAccordionSummary-root MuiAccordionSummary-gutters"
+            role="button"
+            tabindex="0"
+          >
+            <div
+              class="c20 MuiAccordionSummary-content MuiAccordionSummary-contentGutters"
+            >
+              <h4
+                class="c21 MuiTypography-root MuiTypography-h4"
+              >
+                Activity Settings Rule
+              </h4>
+            </div>
+            <div
+              class="c22 MuiAccordionSummary-expandIconWrapper"
+            >
+              <svg
+                aria-hidden="true"
+                class="c5 MuiSvgIcon-root MuiSvgIcon-colorPrimary MuiSvgIcon-fontSizeMedium"
+                data-testid="ExpandMoreIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M16.59 8.59 12 13.17 7.41 8.59 6 10l6 6 6-6z"
+                />
+              </svg>
+            </div>
+          </div>
+          <div
+            class="c23 MuiCollapse-root MuiCollapse-vertical MuiCollapse-hidden"
+            style="min-height: 0px;"
+          >
+            <div
+              class="c24 MuiCollapse-wrapper MuiCollapse-vertical"
+            >
+              <div
+                class="c25 MuiCollapse-wrapperInner MuiCollapse-vertical"
+              >
+                <div
+                  class="MuiAccordion-region"
+                  role="region"
+                >
+                  <div
+                    class="c26 MuiAccordionDetails-root"
+                  >
+                    <div
+                      class="c27 MuiFormGroup-root"
+                      role="radiogroup"
+                    >
+                      <label
+                        class="c28 MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd"
+                      >
+                        <span
+                          class="c3 MuiRadio-root MuiRadio-colorPrimary MuiButtonBase-root c29 MuiRadio-root MuiRadio-colorPrimary PrivateSwitchBase-root c30"
+                        >
+                          <input
+                            class="c31 PrivateSwitchBase-input"
+                            data-testid="RadioButton"
+                            name="mui-1"
+                            type="radio"
+                            value="none"
+                          />
+                          <span
+                            class="c32"
+                          >
+                            <svg
+                              aria-hidden="true"
+                              class="c33 MuiSvgIcon-root MuiSvgIcon-fontSizeSmall c34"
+                              data-testid="RadioButtonUncheckedIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                              />
+                            </svg>
+                            <svg
+                              aria-hidden="true"
+                              class="c33 MuiSvgIcon-root MuiSvgIcon-fontSizeSmall c35"
+                              data-testid="RadioButtonCheckedIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+                              />
+                            </svg>
+                          </span>
+                        </span>
+                        <span
+                          class="c36 MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label"
+                        >
+                          Any Activity Settings Rule
+                        </span>
+                      </label>
+                      <label
+                        class="c28 MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd"
+                      >
+                        <span
+                          class="c3 MuiRadio-root MuiRadio-colorPrimary MuiButtonBase-root c29 MuiRadio-root MuiRadio-colorPrimary PrivateSwitchBase-root c30"
+                        >
+                          <input
+                            class="c31 PrivateSwitchBase-input"
+                            data-testid="RadioButton"
+                            name="mui-1"
+                            type="radio"
+                            value="pre-class"
+                          />
+                          <span
+                            class="c32"
+                          >
+                            <svg
+                              aria-hidden="true"
+                              class="c33 MuiSvgIcon-root MuiSvgIcon-fontSizeSmall c34"
+                              data-testid="RadioButtonUncheckedIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                              />
+                            </svg>
+                            <svg
+                              aria-hidden="true"
+                              class="c33 MuiSvgIcon-root MuiSvgIcon-fontSizeSmall c35"
+                              data-testid="RadioButtonCheckedIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+                              />
+                            </svg>
+                          </span>
+                        </span>
+                        <span
+                          class="c36 MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label"
+                        >
+                          No Activity Settings Rule
+                        </span>
+                      </label>
+                      <label
+                        class="c28 MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd"
+                      >
+                        <span
+                          class="c3 MuiRadio-root MuiRadio-colorPrimary MuiButtonBase-root c29 MuiRadio-root MuiRadio-colorPrimary PrivateSwitchBase-root c30"
+                        >
+                          <input
+                            class="c31 PrivateSwitchBase-input"
+                            data-testid="RadioButton"
+                            name="mui-1"
+                            type="radio"
+                            value="in-class"
+                          />
+                          <span
+                            class="c32"
+                          >
+                            <svg
+                              aria-hidden="true"
+                              class="c33 MuiSvgIcon-root MuiSvgIcon-fontSizeSmall c34"
+                              data-testid="RadioButtonUncheckedIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                              />
+                            </svg>
+                            <svg
+                              aria-hidden="true"
+                              class="c33 MuiSvgIcon-root MuiSvgIcon-fontSizeSmall c35"
+                              data-testid="RadioButtonCheckedIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+                              />
+                            </svg>
+                          </span>
+                        </span>
+                        <span
+                          class="c36 MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label"
+                        >
+                          Name of Settings Rule
+                        </span>
+                      </label>
+                      <label
+                        class="c28 MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd"
+                      >
+                        <span
+                          class="c3 MuiRadio-root MuiRadio-colorPrimary MuiButtonBase-root c29 MuiRadio-root MuiRadio-colorPrimary PrivateSwitchBase-root c30"
+                        >
+                          <input
+                            class="c31 PrivateSwitchBase-input"
+                            data-testid="RadioButton"
+                            name="mui-1"
+                            type="radio"
+                            value="post-class"
+                          />
+                          <span
+                            class="c32"
+                          >
+                            <svg
+                              aria-hidden="true"
+                              class="c33 MuiSvgIcon-root MuiSvgIcon-fontSizeSmall c34"
+                              data-testid="RadioButtonUncheckedIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                              />
+                            </svg>
+                            <svg
+                              aria-hidden="true"
+                              class="c33 MuiSvgIcon-root MuiSvgIcon-fontSizeSmall c35"
+                              data-testid="RadioButtonCheckedIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+                              />
+                            </svg>
+                          </span>
+                        </span>
+                        <span
+                          class="c36 MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label"
+                        >
+                          Name of Settings Rule
+                        </span>
+                      </label>
+                      <label
+                        class="c28 MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd"
+                      >
+                        <span
+                          class="c3 MuiRadio-root MuiRadio-colorPrimary MuiButtonBase-root c29 MuiRadio-root MuiRadio-colorPrimary PrivateSwitchBase-root c30"
+                        >
+                          <input
+                            class="c31 PrivateSwitchBase-input"
+                            data-testid="RadioButton"
+                            name="mui-1"
+                            type="radio"
+                            value="post"
+                          />
+                          <span
+                            class="c32"
+                          >
+                            <svg
+                              aria-hidden="true"
+                              class="c33 MuiSvgIcon-root MuiSvgIcon-fontSizeSmall c34"
+                              data-testid="RadioButtonUncheckedIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                              />
+                            </svg>
+                            <svg
+                              aria-hidden="true"
+                              class="c33 MuiSvgIcon-root MuiSvgIcon-fontSizeSmall c35"
+                              data-testid="RadioButtonCheckedIcon"
+                              focusable="false"
+                              viewBox="0 0 24 24"
+                            >
+                              <path
+                                d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+                              />
+                            </svg>
+                          </span>
+                        </span>
+                        <span
+                          class="c36 MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label"
+                        >
+                          Name of Settings Rule
+                        </span>
+                      </label>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <button
+          class="c3 MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root c37 c38"
+          label="Apply"
+          tabindex="0"
+          type="button"
+        >
+          Apply
+        </button>
+      </div>
+    </div>
+  </body>,
+  "container": .c5 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  fill: currentColor;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  font-size: 1.5rem;
+  color: #00758e;
+}
+
+.c14 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  fill: currentColor;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  font-size: 1.5rem;
+}
+
+.c33 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  fill: currentColor;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  font-size: 1.25rem;
+}
+
+.c23 {
+  height: 0;
+  overflow: hidden;
+  -webkit-transition: height 300ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: height 300ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  visibility: hidden;
+}
+
+.c24 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+}
+
+.c25 {
+  width: 100%;
+}
+
+.c15 {
+  background-color: #ffffff;
+  color: rgba(0,0,0,0.87);
+  -webkit-transition: box-shadow 300ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: box-shadow 300ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  border-radius: 4px;
+  box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 1px 3px 0px rgba(0,0,0,0.12);
+}
+
+.c17 {
+  position: relative;
+  -webkit-transition: margin 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: margin 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  overflow-anchor: none;
+  border-radius: 0;
+}
+
+.c17:before {
+  position: absolute;
+  left: 0;
+  top: -1px;
+  right: 0;
+  height: 1px;
+  content: "";
+  opacity: 1;
+  background-color: rgba(0,0,0,0.12);
+  -webkit-transition: opacity 150ms cubic-bezier(0.4,0,0.2,1) 0ms,background-color 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: opacity 150ms cubic-bezier(0.4,0,0.2,1) 0ms,background-color 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c17:first-of-type:before {
+  display: none;
+}
+
+.c17.Mui-expanded:before {
+  opacity: 0;
+}
+
+.c17.Mui-expanded:first-of-type {
+  margin-top: 0;
+}
+
+.c17.Mui-expanded:last-of-type {
+  margin-bottom: 0;
+}
+
+.c17.Mui-expanded + .c16.Mui-expanded:before {
+  display: none;
+}
+
+.c17.Mui-disabled {
+  background-color: rgba(0,0,0,0.12);
+}
+
+.c17:first-of-type {
+  border-top-left-radius: 4px;
+  border-top-right-radius: 4px;
+}
+
+.c17:last-of-type {
+  border-bottom-left-radius: 4px;
+  border-bottom-right-radius: 4px;
+}
+
+.c17.Mui-expanded {
+  margin: 16px 0;
+}
+
+.c26 {
+  padding: 8px 16px 16px;
+}
+
+.c3 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  position: relative;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  background-color: transparent;
+  outline: 0;
+  border: 0;
+  margin: 0;
+  border-radius: 0;
+  padding: 0;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  vertical-align: middle;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: inherit;
+}
+
+.c3::-moz-focus-inner {
+  border-style: none;
+}
+
+.c3.Mui-disabled {
+  pointer-events: none;
+  cursor: default;
+}
+
+.c19 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  min-height: 48px;
+  padding: 0px 16px;
+  -webkit-transition: min-height 150ms cubic-bezier(0.4,0,0.2,1) 0ms,background-color 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: min-height 150ms cubic-bezier(0.4,0,0.2,1) 0ms,background-color 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c19.Mui-focusVisible {
+  background-color: rgba(0,0,0,0.12);
+}
+
+.c19.Mui-disabled {
+  opacity: 0.38;
+}
+
+.c19:hover:not(.Mui-disabled) {
+  cursor: pointer;
+}
+
+.c19.Mui-expanded {
+  min-height: 64px;
+}
+
+.c20 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  margin: 12px 0;
+  -webkit-transition: margin 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: margin 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c20.Mui-expanded {
+  margin: 20px 0;
+}
+
+.c22 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  color: rgba(0,0,0,0.54);
+  -webkit-transform: rotate(0deg);
+  -ms-transform: rotate(0deg);
+  transform: rotate(0deg);
+  -webkit-transition: -webkit-transform 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  -webkit-transition: transform 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: transform 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c22.Mui-expanded {
+  -webkit-transform: rotate(180deg);
+  -ms-transform: rotate(180deg);
+  transform: rotate(180deg);
+}
+
+.c4 {
+  text-align: center;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  font-size: 1.5rem;
+  padding: 8px;
+  border-radius: 50%;
+  overflow: visible;
+  color: rgba(0,0,0,0.54);
+  -webkit-transition: background-color 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: background-color 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c4:hover {
+  background-color: rgba(0,0,0,0.04);
+}
+
+.c4.Mui-disabled {
+  background-color: transparent;
+  color: rgba(0,0,0,0.26);
+}
+
+.c2 {
+  margin: 0;
+  color: #080808;
+  font-size: 32px;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 1.167;
+  line-height: 48px;
+}
+
+.c7 {
+  margin: 0;
+  color: #080808;
+  font-size: 16px;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 1.235;
+  margin-bottom: 18px;
+}
+
+.c21 {
+  margin: 0;
+  color: #080808;
+  font-size: 16px;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 1.235;
+}
+
+.c36 {
+  margin: 0;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Source Sans Pro,sans-serif;
+  font-weight: normal;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.c8 {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Source Sans Pro,sans-serif;
+  font-weight: normal;
+  font-size: 1rem;
+  line-height: 1.4375em;
+  color: rgba(0,0,0,0.87);
+  box-sizing: border-box;
+  position: relative;
+  cursor: text;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100%;
+}
+
+.c8.Mui-disabled {
+  color: rgba(0,0,0,0.38);
+  cursor: default;
+}
+
+.c12 {
+  font: inherit;
+  -webkit-letter-spacing: inherit;
+  -moz-letter-spacing: inherit;
+  -ms-letter-spacing: inherit;
+  letter-spacing: inherit;
+  color: currentColor;
+  padding: 4px 0 5px;
+  border: 0;
+  box-sizing: content-box;
+  background: none;
+  height: 1.4375em;
+  margin: 0;
+  -webkit-tap-highlight-color: transparent;
+  display: block;
+  min-width: 0;
+  width: 100%;
+  -webkit-animation-name: mui-auto-fill-cancel;
+  animation-name: mui-auto-fill-cancel;
+  -webkit-animation-duration: 10ms;
+  animation-duration: 10ms;
+}
+
+.c12::-webkit-input-placeholder {
+  color: currentColor;
+  opacity: 0.42;
+  -webkit-transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c12::-moz-placeholder {
+  color: currentColor;
+  opacity: 0.42;
+  -webkit-transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c12:-ms-input-placeholder {
+  color: currentColor;
+  opacity: 0.42;
+  -webkit-transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c12::-ms-input-placeholder {
+  color: currentColor;
+  opacity: 0.42;
+  -webkit-transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c12:focus {
+  outline: 0;
+}
+
+.c12:invalid {
+  box-shadow: none;
+}
+
+.c12::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c11::-webkit-input-placeholder {
+  opacity: 0 !important;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c11::-moz-placeholder {
+  opacity: 0 !important;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c11:-ms-input-placeholder {
+  opacity: 0 !important;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c11::-ms-input-placeholder {
+  opacity: 0 !important;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c11:focus::-webkit-input-placeholder {
+  opacity: 0.42;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c11:focus::-moz-placeholder {
+  opacity: 0.42;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c11:focus:-ms-input-placeholder {
+  opacity: 0.42;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c11:focus::-ms-input-placeholder {
+  opacity: 0.42;
+}
+
+.c12.Mui-disabled {
+  opacity: 1;
+  -webkit-text-fill-color: rgba(0,0,0,0.38);
+}
+
+.c12:-webkit-autofill {
+  -webkit-animation-duration: 5000s;
+  animation-duration: 5000s;
+  -webkit-animation-name: mui-auto-fill;
+  animation-name: mui-auto-fill;
+}
+
+.c37 {
+  font-size: 14px;
+  text-transform: uppercase;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Source Sans Pro,sans-serif;
+  font-weight: normal;
+  line-height: 1.75;
+  min-width: 64px;
+  padding: 6px 16px;
+  border-radius: 4px;
+  -webkit-transition: background-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,box-shadow 250ms cubic-bezier(0.4,0,0.2,1) 0ms,border-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,color 250ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: background-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,box-shadow 250ms cubic-bezier(0.4,0,0.2,1) 0ms,border-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,color 250ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  color: #fff;
+  background-color: #00758e;
+  box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+}
+
+.c37:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  background-color: rgb(0,81,99);
+  box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+}
+
+.c37:active {
+  box-shadow: 0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);
+}
+
+.c37.Mui-focusVisible {
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);
+}
+
+.c37.Mui-disabled {
+  color: rgba(0,0,0,0.26);
+  box-shadow: none;
+  background-color: rgba(0,0,0,0.12);
+}
+
+.c29 {
+  padding: 9px;
+  border-radius: 50%;
+}
+
+.c31 {
+  cursor: inherit;
+  position: absolute;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  z-index: 1;
+}
+
+.c28 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  cursor: pointer;
+  vertical-align: middle;
+  -webkit-tap-highlight-color: transparent;
+  margin-left: -11px;
+  margin-right: 16px;
+}
+
+.c28.Mui-disabled {
+  cursor: default;
+}
+
+.c28 .MuiFormControlLabel-label.Mui-disabled {
+  color: rgba(0,0,0,0.38);
+}
+
+.c27 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.c9 {
+  position: relative;
+}
+
+.c13 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 0.01em;
+  max-height: 2em;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  white-space: nowrap;
+  color: rgba(0,0,0,0.54);
+  margin-left: 8px;
+}
+
+.c32 {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c34 {
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+}
+
+.c35 {
+  left: 0;
+  position: absolute;
+  -webkit-transform: scale(0);
+  -ms-transform: scale(0);
+  transform: scale(0);
+  -webkit-transition: -webkit-transform 150ms cubic-bezier(0.4,0,1,1) 0ms;
+  -webkit-transition: transform 150ms cubic-bezier(0.4,0,1,1) 0ms;
+  transition: transform 150ms cubic-bezier(0.4,0,1,1) 0ms;
+}
+
+.c30 {
+  color: rgba(0,0,0,0.6);
+}
+
+.c30:hover {
+  background-color: rgba(0,117,142,0.04);
+}
+
+.c30.Mui-checked {
+  color: #00758e;
+}
+
+.c30.Mui-disabled {
+  color: rgba(0,0,0,0.26);
+}
+
+.c0 {
+  width: 399px;
+  background-color: #ffffff;
+  height: 100%;
+  border-right: 1px solid rgb(0 0 0 / 20%);
+  overflow: auto;
+}
+
+.c1 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin: 10px 20px;
+}
+
+.c6 {
+  padding: 18px 20px;
+  border-bottom: 1px solid #dddddd;
+}
+
+.c18 {
+  margin: 0 !important;
+  border-radius: 0;
+  border: 1px solid #dddddd;
+}
+
+.c10 {
+  border: 1px solid #686868;
+  padding: 7px 10px 7px 7px;
+  width: 100%;
+}
+
+.c10 input {
+  padding: 0;
+}
+
+.c10 input::-webkit-input-placeholder {
+  line-height: 20px;
+  color: #686868;
+  opacity: 1;
+  font-style: italic;
+}
+
+.c10 input::-moz-placeholder {
+  line-height: 20px;
+  color: #686868;
+  opacity: 1;
+  font-style: italic;
+}
+
+.c10 input:-ms-input-placeholder {
+  line-height: 20px;
+  color: #686868;
+  opacity: 1;
+  font-style: italic;
+}
+
+.c10 input::placeholder {
+  line-height: 20px;
+  color: #686868;
+  opacity: 1;
+  font-style: italic;
+}
+
+.c38 {
+  text-transform: none;
+  margin: 18px 16px;
+  font-weight: 400;
+}
+
+@supports (-ms-ime-align:auto) {
+  .c17:last-of-type {
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+  }
+}
+
+@media print {
+  .c3 {
+    color-adjust: exact;
+  }
+}
+
+@media (hover:none) {
+  .c4:hover {
+    background-color: transparent;
+  }
+}
+
+@media (hover:none) {
+  .c37:hover {
+    background-color: #00758e;
+  }
+}
+
+@media (hover:none) {
+  .c30:hover {
+    background-color: transparent;
+  }
+}
+
+<div>
+    <div
+      class="c0 MuiBox-root"
+    >
+      <div
+        class="c1 MuiBox-root"
+      >
+        <h1
+          class="c2 MuiTypography-root MuiTypography-h1"
+        >
+          Resource Structure
+        </h1>
+        <button
+          class="c3 MuiButtonBase-root c4 MuiIconButton-root MuiIconButton-sizeMedium"
+          tabindex="0"
+          type="button"
+        >
+          <svg
+            aria-hidden="true"
+            class="c5 MuiSvgIcon-root MuiSvgIcon-colorPrimary MuiSvgIcon-fontSizeMedium"
+            data-testid="CloseIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M19 6.41 17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+            />
+          </svg>
+        </button>
+      </div>
+      <div
+        class="c6 MuiBox-root"
+      >
+        <h4
+          class="c7 MuiTypography-root MuiTypography-h4"
+        >
+          Keyword Search
+        </h4>
+        <div
+          class="c8 c9 MuiInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-adornedEnd c10"
+        >
+          <input
+            class="c11 MuiInput-input-ulsMd c12 MuiInput-input MuiInputBase-input MuiInputBase-inputAdornedEnd"
+            placeholder="Search by keyword..."
+            type="text"
+            value=""
+          />
+          <div
+            class="c13 MuiInputAdornment-root MuiInputAdornment-positionEnd"
+          >
+            <svg
+              aria-hidden="true"
+              class="c14 MuiSvgIcon-root MuiSvgIcon-fontSizeMedium"
+              data-testid="SearchIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M15.5 14h-.79l-.28-.27C15.41 12.59 16 11.11 16 9.5 16 5.91 13.09 3 9.5 3S3 5.91 3 9.5 5.91 16 9.5 16c1.61 0 3.09-.59 4.23-1.57l.27.28v.79l5 4.99L20.49 19l-4.99-5zm-6 0C7.01 14 5 11.99 5 9.5S7.01 5 9.5 5 14 7.01 14 9.5 11.99 14 9.5 14z"
+              />
+            </svg>
+          </div>
+        </div>
+      </div>
+      <div
+        class="c15 MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 c16 c17 MuiAccordion-root MuiAccordion-rounded MuiAccordion-gutters c18"
+      >
+        <div
+          aria-expanded="false"
+          class="c3 MuiButtonBase-root c19 MuiAccordionSummary-root MuiAccordionSummary-gutters"
+          role="button"
+          tabindex="0"
+        >
+          <div
+            class="c20 MuiAccordionSummary-content MuiAccordionSummary-contentGutters"
+          >
+            <h4
+              class="c21 MuiTypography-root MuiTypography-h4"
+            >
+              Activity Settings Rule
+            </h4>
+          </div>
+          <div
+            class="c22 MuiAccordionSummary-expandIconWrapper"
+          >
+            <svg
+              aria-hidden="true"
+              class="c5 MuiSvgIcon-root MuiSvgIcon-colorPrimary MuiSvgIcon-fontSizeMedium"
+              data-testid="ExpandMoreIcon"
+              focusable="false"
+              viewBox="0 0 24 24"
+            >
+              <path
+                d="M16.59 8.59 12 13.17 7.41 8.59 6 10l6 6 6-6z"
+              />
+            </svg>
+          </div>
+        </div>
+        <div
+          class="c23 MuiCollapse-root MuiCollapse-vertical MuiCollapse-hidden"
+          style="min-height: 0px;"
+        >
+          <div
+            class="c24 MuiCollapse-wrapper MuiCollapse-vertical"
+          >
+            <div
+              class="c25 MuiCollapse-wrapperInner MuiCollapse-vertical"
+            >
+              <div
+                class="MuiAccordion-region"
+                role="region"
+              >
+                <div
+                  class="c26 MuiAccordionDetails-root"
+                >
+                  <div
+                    class="c27 MuiFormGroup-root"
+                    role="radiogroup"
+                  >
+                    <label
+                      class="c28 MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd"
+                    >
+                      <span
+                        class="c3 MuiRadio-root MuiRadio-colorPrimary MuiButtonBase-root c29 MuiRadio-root MuiRadio-colorPrimary PrivateSwitchBase-root c30"
+                      >
+                        <input
+                          class="c31 PrivateSwitchBase-input"
+                          data-testid="RadioButton"
+                          name="mui-1"
+                          type="radio"
+                          value="none"
+                        />
+                        <span
+                          class="c32"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            class="c33 MuiSvgIcon-root MuiSvgIcon-fontSizeSmall c34"
+                            data-testid="RadioButtonUncheckedIcon"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                            />
+                          </svg>
+                          <svg
+                            aria-hidden="true"
+                            class="c33 MuiSvgIcon-root MuiSvgIcon-fontSizeSmall c35"
+                            data-testid="RadioButtonCheckedIcon"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+                            />
+                          </svg>
+                        </span>
+                      </span>
+                      <span
+                        class="c36 MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label"
+                      >
+                        Any Activity Settings Rule
+                      </span>
+                    </label>
+                    <label
+                      class="c28 MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd"
+                    >
+                      <span
+                        class="c3 MuiRadio-root MuiRadio-colorPrimary MuiButtonBase-root c29 MuiRadio-root MuiRadio-colorPrimary PrivateSwitchBase-root c30"
+                      >
+                        <input
+                          class="c31 PrivateSwitchBase-input"
+                          data-testid="RadioButton"
+                          name="mui-1"
+                          type="radio"
+                          value="pre-class"
+                        />
+                        <span
+                          class="c32"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            class="c33 MuiSvgIcon-root MuiSvgIcon-fontSizeSmall c34"
+                            data-testid="RadioButtonUncheckedIcon"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                            />
+                          </svg>
+                          <svg
+                            aria-hidden="true"
+                            class="c33 MuiSvgIcon-root MuiSvgIcon-fontSizeSmall c35"
+                            data-testid="RadioButtonCheckedIcon"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+                            />
+                          </svg>
+                        </span>
+                      </span>
+                      <span
+                        class="c36 MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label"
+                      >
+                        No Activity Settings Rule
+                      </span>
+                    </label>
+                    <label
+                      class="c28 MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd"
+                    >
+                      <span
+                        class="c3 MuiRadio-root MuiRadio-colorPrimary MuiButtonBase-root c29 MuiRadio-root MuiRadio-colorPrimary PrivateSwitchBase-root c30"
+                      >
+                        <input
+                          class="c31 PrivateSwitchBase-input"
+                          data-testid="RadioButton"
+                          name="mui-1"
+                          type="radio"
+                          value="in-class"
+                        />
+                        <span
+                          class="c32"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            class="c33 MuiSvgIcon-root MuiSvgIcon-fontSizeSmall c34"
+                            data-testid="RadioButtonUncheckedIcon"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                            />
+                          </svg>
+                          <svg
+                            aria-hidden="true"
+                            class="c33 MuiSvgIcon-root MuiSvgIcon-fontSizeSmall c35"
+                            data-testid="RadioButtonCheckedIcon"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+                            />
+                          </svg>
+                        </span>
+                      </span>
+                      <span
+                        class="c36 MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label"
+                      >
+                        Name of Settings Rule
+                      </span>
+                    </label>
+                    <label
+                      class="c28 MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd"
+                    >
+                      <span
+                        class="c3 MuiRadio-root MuiRadio-colorPrimary MuiButtonBase-root c29 MuiRadio-root MuiRadio-colorPrimary PrivateSwitchBase-root c30"
+                      >
+                        <input
+                          class="c31 PrivateSwitchBase-input"
+                          data-testid="RadioButton"
+                          name="mui-1"
+                          type="radio"
+                          value="post-class"
+                        />
+                        <span
+                          class="c32"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            class="c33 MuiSvgIcon-root MuiSvgIcon-fontSizeSmall c34"
+                            data-testid="RadioButtonUncheckedIcon"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                            />
+                          </svg>
+                          <svg
+                            aria-hidden="true"
+                            class="c33 MuiSvgIcon-root MuiSvgIcon-fontSizeSmall c35"
+                            data-testid="RadioButtonCheckedIcon"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+                            />
+                          </svg>
+                        </span>
+                      </span>
+                      <span
+                        class="c36 MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label"
+                      >
+                        Name of Settings Rule
+                      </span>
+                    </label>
+                    <label
+                      class="c28 MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd"
+                    >
+                      <span
+                        class="c3 MuiRadio-root MuiRadio-colorPrimary MuiButtonBase-root c29 MuiRadio-root MuiRadio-colorPrimary PrivateSwitchBase-root c30"
+                      >
+                        <input
+                          class="c31 PrivateSwitchBase-input"
+                          data-testid="RadioButton"
+                          name="mui-1"
+                          type="radio"
+                          value="post"
+                        />
+                        <span
+                          class="c32"
+                        >
+                          <svg
+                            aria-hidden="true"
+                            class="c33 MuiSvgIcon-root MuiSvgIcon-fontSizeSmall c34"
+                            data-testid="RadioButtonUncheckedIcon"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                            />
+                          </svg>
+                          <svg
+                            aria-hidden="true"
+                            class="c33 MuiSvgIcon-root MuiSvgIcon-fontSizeSmall c35"
+                            data-testid="RadioButtonCheckedIcon"
+                            focusable="false"
+                            viewBox="0 0 24 24"
+                          >
+                            <path
+                              d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+                            />
+                          </svg>
+                        </span>
+                      </span>
+                      <span
+                        class="c36 MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label"
+                      >
+                        Name of Settings Rule
+                      </span>
+                    </label>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <button
+        class="c3 MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root c37 c38"
+        label="Apply"
+        tabindex="0"
+        type="button"
+      >
+        Apply
+      </button>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

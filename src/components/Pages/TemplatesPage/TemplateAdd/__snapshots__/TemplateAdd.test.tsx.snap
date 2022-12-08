@@ -1,0 +1,3088 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TemplateAdd. /> Component <TemplateAdd /> render without crashing 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": .c14 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  fill: currentColor;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  font-size: 1.5rem;
+}
+
+.c27 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  fill: currentColor;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  font-size: 1.25rem;
+}
+
+.c21 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  position: relative;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  background-color: transparent;
+  outline: 0;
+  border: 0;
+  margin: 0;
+  border-radius: 0;
+  padding: 0;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  vertical-align: middle;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: inherit;
+}
+
+.c21::-moz-focus-inner {
+  border-style: none;
+}
+
+.c21.Mui-disabled {
+  pointer-events: none;
+  cursor: default;
+}
+
+.c43 {
+  text-align: center;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  font-size: 1.5rem;
+  padding: 8px;
+  border-radius: 50%;
+  overflow: visible;
+  color: rgba(0,0,0,0.54);
+  -webkit-transition: background-color 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: background-color 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c43:hover {
+  background-color: rgba(0,0,0,0.04);
+}
+
+.c43.Mui-disabled {
+  background-color: transparent;
+  color: rgba(0,0,0,0.26);
+}
+
+.c1 {
+  margin: 0;
+  color: #080808;
+  font-size: 28px;
+  font-family: Source Sans Pro;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.c3 {
+  margin: 0;
+  color: #080808;
+  font-size: 18px;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 1.167;
+}
+
+.c5 {
+  margin: 0;
+  color: #080808;
+  font-size: 14px;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  font-style: normal;
+  color: #686868;
+}
+
+.c25 {
+  margin: 0;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Source Sans Pro,sans-serif;
+  font-weight: normal;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.c31 {
+  margin: 0;
+  color: #080808;
+  font-size: 16px;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  font-style: normal;
+  color: #383838;
+  line-height: 20px;
+}
+
+.c6 {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Source Sans Pro,sans-serif;
+  font-weight: normal;
+  font-size: 1rem;
+  line-height: 1.4375em;
+  color: rgba(0,0,0,0.87);
+  box-sizing: border-box;
+  position: relative;
+  cursor: text;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c6.Mui-disabled {
+  color: rgba(0,0,0,0.38);
+  cursor: default;
+}
+
+.c38 {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Source Sans Pro,sans-serif;
+  font-weight: normal;
+  font-size: 1rem;
+  line-height: 1.4375em;
+  color: rgba(0,0,0,0.87);
+  box-sizing: border-box;
+  position: relative;
+  cursor: text;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100%;
+}
+
+.c38.Mui-disabled {
+  color: rgba(0,0,0,0.38);
+  cursor: default;
+}
+
+.c11 {
+  font: inherit;
+  -webkit-letter-spacing: inherit;
+  -moz-letter-spacing: inherit;
+  -ms-letter-spacing: inherit;
+  letter-spacing: inherit;
+  color: currentColor;
+  padding: 4px 0 5px;
+  border: 0;
+  box-sizing: content-box;
+  background: none;
+  height: 1.4375em;
+  margin: 0;
+  -webkit-tap-highlight-color: transparent;
+  display: block;
+  min-width: 0;
+  width: 100%;
+  -webkit-animation-name: mui-auto-fill-cancel;
+  animation-name: mui-auto-fill-cancel;
+  -webkit-animation-duration: 10ms;
+  animation-duration: 10ms;
+}
+
+.c11::-webkit-input-placeholder {
+  color: currentColor;
+  opacity: 0.42;
+  -webkit-transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c11::-moz-placeholder {
+  color: currentColor;
+  opacity: 0.42;
+  -webkit-transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c11:-ms-input-placeholder {
+  color: currentColor;
+  opacity: 0.42;
+  -webkit-transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c11::-ms-input-placeholder {
+  color: currentColor;
+  opacity: 0.42;
+  -webkit-transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c11:focus {
+  outline: 0;
+}
+
+.c11:invalid {
+  box-shadow: none;
+}
+
+.c11::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10::-webkit-input-placeholder {
+  opacity: 0 !important;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10::-moz-placeholder {
+  opacity: 0 !important;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10:-ms-input-placeholder {
+  opacity: 0 !important;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10::-ms-input-placeholder {
+  opacity: 0 !important;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10:focus::-webkit-input-placeholder {
+  opacity: 0.42;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10:focus::-moz-placeholder {
+  opacity: 0.42;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10:focus:-ms-input-placeholder {
+  opacity: 0.42;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10:focus::-ms-input-placeholder {
+  opacity: 0.42;
+}
+
+.c11.Mui-disabled {
+  opacity: 1;
+  -webkit-text-fill-color: rgba(0,0,0,0.38);
+}
+
+.c11:-webkit-autofill {
+  -webkit-animation-duration: 5000s;
+  animation-duration: 5000s;
+  -webkit-animation-name: mui-auto-fill;
+  animation-name: mui-auto-fill;
+}
+
+.c40 {
+  font: inherit;
+  -webkit-letter-spacing: inherit;
+  -moz-letter-spacing: inherit;
+  -ms-letter-spacing: inherit;
+  letter-spacing: inherit;
+  color: currentColor;
+  padding: 4px 0 5px;
+  border: 0;
+  box-sizing: content-box;
+  background: none;
+  height: 1.4375em;
+  margin: 0;
+  -webkit-tap-highlight-color: transparent;
+  display: block;
+  min-width: 0;
+  width: 100%;
+  -webkit-animation-name: mui-auto-fill-cancel;
+  animation-name: mui-auto-fill-cancel;
+  -webkit-animation-duration: 10ms;
+  animation-duration: 10ms;
+  padding-top: 1px;
+}
+
+.c40::-webkit-input-placeholder {
+  color: currentColor;
+  opacity: 0.42;
+  -webkit-transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c40::-moz-placeholder {
+  color: currentColor;
+  opacity: 0.42;
+  -webkit-transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c40:-ms-input-placeholder {
+  color: currentColor;
+  opacity: 0.42;
+  -webkit-transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c40::-ms-input-placeholder {
+  color: currentColor;
+  opacity: 0.42;
+  -webkit-transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c40:focus {
+  outline: 0;
+}
+
+.c40:invalid {
+  box-shadow: none;
+}
+
+.c40::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10::-webkit-input-placeholder {
+  opacity: 0 !important;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10::-moz-placeholder {
+  opacity: 0 !important;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10:-ms-input-placeholder {
+  opacity: 0 !important;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10::-ms-input-placeholder {
+  opacity: 0 !important;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10:focus::-webkit-input-placeholder {
+  opacity: 0.42;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10:focus::-moz-placeholder {
+  opacity: 0.42;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10:focus:-ms-input-placeholder {
+  opacity: 0.42;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10:focus::-ms-input-placeholder {
+  opacity: 0.42;
+}
+
+.c40.Mui-disabled {
+  opacity: 1;
+  -webkit-text-fill-color: rgba(0,0,0,0.38);
+}
+
+.c40:-webkit-autofill {
+  -webkit-animation-duration: 5000s;
+  animation-duration: 5000s;
+  -webkit-animation-name: mui-auto-fill;
+  animation-name: mui-auto-fill;
+}
+
+.c36.Mui-focused .MuiAutocomplete-clearIndicator {
+  visibility: visible;
+}
+
+.c36 .MuiAutocomplete-tag {
+  margin: 2px;
+  max-width: calc(100% - 4px);
+}
+
+.c36 .MuiAutocomplete-inputRoot {
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.MuiAutocomplete-hasPopupIcon.c35 .MuiAutocomplete-inputRoot,
+.MuiAutocomplete-hasClearIcon.c36 .MuiAutocomplete-inputRoot {
+  padding-right: 30px;
+}
+
+.MuiAutocomplete-hasPopupIcon.MuiAutocomplete-hasClearIcon.c35 .MuiAutocomplete-inputRoot {
+  padding-right: 56px;
+}
+
+.c36 .MuiAutocomplete-inputRoot .MuiAutocomplete-input {
+  width: 0;
+  min-width: 30px;
+}
+
+.c36 .MuiInput-root {
+  padding-bottom: 1px;
+}
+
+.c36 .MuiInput-root .MuiInput-input {
+  padding: 4px 4px 4px 0px;
+}
+
+.c36 .MuiInput-root.MuiInputBase-sizeSmall .MuiInput-input {
+  padding: 2px 4px 3px 0;
+}
+
+.c36 .MuiOutlinedInput-root {
+  padding: 9px;
+}
+
+.MuiAutocomplete-hasPopupIcon.c35 .MuiOutlinedInput-root,
+.MuiAutocomplete-hasClearIcon.c36 .MuiOutlinedInput-root {
+  padding-right: 39px;
+}
+
+.MuiAutocomplete-hasPopupIcon.MuiAutocomplete-hasClearIcon.c35 .MuiOutlinedInput-root {
+  padding-right: 65px;
+}
+
+.c36 .MuiOutlinedInput-root .MuiAutocomplete-input {
+  padding: 7.5px 4px 7.5px 6px;
+}
+
+.c36 .MuiOutlinedInput-root .MuiAutocomplete-endAdornment {
+  right: 9px;
+}
+
+.c36 .MuiOutlinedInput-root.MuiInputBase-sizeSmall {
+  padding: 6px;
+}
+
+.c36 .MuiOutlinedInput-root.MuiInputBase-sizeSmall .MuiAutocomplete-input {
+  padding: 2.5px 4px 2.5px 6px;
+}
+
+.c36 .MuiFilledInput-root {
+  padding-top: 19px;
+  padding-left: 8px;
+}
+
+.MuiAutocomplete-hasPopupIcon.c35 .MuiFilledInput-root,
+.MuiAutocomplete-hasClearIcon.c36 .MuiFilledInput-root {
+  padding-right: 39px;
+}
+
+.MuiAutocomplete-hasPopupIcon.MuiAutocomplete-hasClearIcon.c35 .MuiFilledInput-root {
+  padding-right: 65px;
+}
+
+.c36 .MuiFilledInput-root .MuiFilledInput-input {
+  padding: 7px 4px;
+}
+
+.c36 .MuiFilledInput-root .MuiAutocomplete-endAdornment {
+  right: 9px;
+}
+
+.c36 .MuiFilledInput-root.MuiInputBase-sizeSmall {
+  padding-bottom: 1px;
+}
+
+.c36 .MuiFilledInput-root.MuiInputBase-sizeSmall .MuiFilledInput-input {
+  padding: 2.5px 4px;
+}
+
+.c36 .MuiInputBase-hiddenLabel {
+  padding-top: 8px;
+}
+
+.c36 .MuiAutocomplete-input {
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  text-overflow: ellipsis;
+  opacity: 1;
+}
+
+.c42 {
+  position: absolute;
+  right: 0;
+  top: calc(50% - 14px);
+}
+
+.c44 {
+  margin-right: -2px;
+  padding: 4px;
+  visibility: hidden;
+}
+
+.c45 {
+  padding: 2px;
+  margin-right: -2px;
+}
+
+.c48 {
+  font-size: 14px;
+  text-transform: uppercase;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Source Sans Pro,sans-serif;
+  font-weight: normal;
+  line-height: 1.75;
+  min-width: 64px;
+  padding: 5px 15px;
+  border-radius: 4px;
+  -webkit-transition: background-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,box-shadow 250ms cubic-bezier(0.4,0,0.2,1) 0ms,border-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,color 250ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: background-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,box-shadow 250ms cubic-bezier(0.4,0,0.2,1) 0ms,border-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,color 250ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  border: 1px solid rgba(0,117,142,0.5);
+  color: #00758e;
+}
+
+.c48:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  background-color: rgba(0,117,142,0.04);
+  border: 1px solid #00758e;
+}
+
+.c48.Mui-disabled {
+  color: rgba(0,0,0,0.26);
+  border: 1px solid rgba(0,0,0,0.12);
+}
+
+.c49 {
+  font-size: 14px;
+  text-transform: uppercase;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Source Sans Pro,sans-serif;
+  font-weight: normal;
+  line-height: 1.75;
+  min-width: 64px;
+  padding: 6px 16px;
+  border-radius: 4px;
+  -webkit-transition: background-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,box-shadow 250ms cubic-bezier(0.4,0,0.2,1) 0ms,border-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,color 250ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: background-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,box-shadow 250ms cubic-bezier(0.4,0,0.2,1) 0ms,border-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,color 250ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  color: #fff;
+  background-color: #00758e;
+  box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+}
+
+.c49:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  background-color: rgb(0,81,99);
+  box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+}
+
+.c49:active {
+  box-shadow: 0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);
+}
+
+.c49.Mui-focusVisible {
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);
+}
+
+.c49.Mui-disabled {
+  color: rgba(0,0,0,0.26);
+  box-shadow: none;
+  background-color: rgba(0,0,0,0.12);
+}
+
+.c22 {
+  padding: 9px;
+  border-radius: 50%;
+}
+
+.c24 {
+  cursor: inherit;
+  position: absolute;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  z-index: 1;
+}
+
+.c37 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  position: relative;
+  min-width: 0;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  vertical-align: top;
+  width: 100%;
+}
+
+.c20 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  cursor: pointer;
+  vertical-align: middle;
+  -webkit-tap-highlight-color: transparent;
+  margin-left: -11px;
+  margin-right: 16px;
+}
+
+.c20.Mui-disabled {
+  cursor: default;
+}
+
+.c20 .MuiFormControlLabel-label.Mui-disabled {
+  color: rgba(0,0,0,0.38);
+}
+
+.c19 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.c32 {
+  position: relative;
+}
+
+.c16 {
+  text-align: left;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  top: -5px;
+  left: 0;
+  margin: 0;
+  padding: 0 8px;
+  pointer-events: none;
+  border-radius: inherit;
+  border-style: solid;
+  border-width: 1px;
+  overflow: hidden;
+  min-width: 0%;
+}
+
+.c18 {
+  float: unset;
+  overflow: hidden;
+  padding: 0;
+  line-height: 11px;
+  -webkit-transition: width 150ms cubic-bezier(0.0,0,0.2,1) 0ms;
+  transition: width 150ms cubic-bezier(0.0,0,0.2,1) 0ms;
+}
+
+.c7 {
+  position: relative;
+  border-radius: 4px;
+}
+
+.c7:hover .MuiOutlinedInput-notchedOutline {
+  border-color: rgba(0,0,0,0.87);
+}
+
+.c7.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: #00758e;
+  border-width: 2px;
+}
+
+.c7.Mui-error .MuiOutlinedInput-notchedOutline {
+  border-color: #d32f2f;
+}
+
+.c7.Mui-disabled .MuiOutlinedInput-notchedOutline {
+  border-color: rgba(0,0,0,0.26);
+}
+
+.c39 {
+  position: relative;
+  border-radius: 4px;
+  padding-right: 14px;
+}
+
+.c39:hover .MuiOutlinedInput-notchedOutline {
+  border-color: rgba(0,0,0,0.87);
+}
+
+.c39.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: #00758e;
+  border-width: 2px;
+}
+
+.c39.Mui-error .MuiOutlinedInput-notchedOutline {
+  border-color: #d32f2f;
+}
+
+.c39.Mui-disabled .MuiOutlinedInput-notchedOutline {
+  border-color: rgba(0,0,0,0.26);
+}
+
+.c17 {
+  border-color: rgba(0,0,0,0.23);
+}
+
+.c12 {
+  padding: 16.5px 14px;
+}
+
+.c12:-webkit-autofill {
+  border-radius: inherit;
+}
+
+.c41 {
+  padding: 8.5px 14px;
+  padding-right: 0;
+}
+
+.c41:-webkit-autofill {
+  border-radius: inherit;
+}
+
+.c26 {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c28 {
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+}
+
+.c29 {
+  left: 0;
+  position: absolute;
+  -webkit-transform: scale(0);
+  -ms-transform: scale(0);
+  transform: scale(0);
+  -webkit-transition: -webkit-transform 150ms cubic-bezier(0.4,0,1,1) 0ms;
+  -webkit-transition: transform 150ms cubic-bezier(0.4,0,1,1) 0ms;
+  transition: transform 150ms cubic-bezier(0.4,0,1,1) 0ms;
+}
+
+.c23 {
+  color: rgba(0,0,0,0.6);
+}
+
+.c23:hover {
+  background-color: rgba(0,117,142,0.04);
+}
+
+.c23.Mui-checked {
+  color: #00758e;
+}
+
+.c23.Mui-disabled {
+  color: rgba(0,0,0,0.26);
+}
+
+.c9 {
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.c9:focus {
+  border-radius: 4px;
+}
+
+.c9::-ms-expand {
+  display: none;
+}
+
+.c9.Mui-disabled {
+  cursor: default;
+}
+
+.c9[multiple] {
+  height: auto;
+}
+
+.c9:not([multiple]) option,
+.c9:not([multiple]) optgroup {
+  background-color: #ffffff;
+}
+
+.c9.c9.c9 {
+  padding-right: 32px;
+}
+
+.c9.MuiSelect-select {
+  height: auto;
+  min-height: 1.4375em;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.c15 {
+  position: absolute;
+  right: 7px;
+  top: calc(50% - .5em);
+  pointer-events: none;
+  color: rgba(0,0,0,0.54);
+}
+
+.c15.Mui-disabled {
+  color: rgba(0,0,0,0.26);
+}
+
+.c13 {
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.c8 {
+  border: 1px solid #989898;
+  border-radius: 0;
+  outline: none;
+}
+
+.c8 .MuiSelect-icon {
+  fill: #00758e;
+}
+
+.c8 .MuiSelect-select {
+  padding: 4px 37px 4px 6px;
+  min-width: 160px;
+  box-sizing: border-box;
+  color: #080808;
+}
+
+.c8 fieldset {
+  border: none;
+}
+
+.c33 {
+  border: 1px solid #686868;
+  padding: 7px 10px 7px 7px;
+  width: 100%;
+}
+
+.c33 input {
+  padding: 0;
+}
+
+.c33 input::-webkit-input-placeholder {
+  line-height: 20px;
+  color: #686868;
+  opacity: 1;
+  font-style: italic;
+}
+
+.c33 input::-moz-placeholder {
+  line-height: 20px;
+  color: #686868;
+  opacity: 1;
+  font-style: italic;
+}
+
+.c33 input:-ms-input-placeholder {
+  line-height: 20px;
+  color: #686868;
+  opacity: 1;
+  font-style: italic;
+}
+
+.c33 input::placeholder {
+  line-height: 20px;
+  color: #686868;
+  opacity: 1;
+  font-style: italic;
+}
+
+.c0 {
+  background-color: #ffffff;
+  margin: 100px 40px 40px 40px;
+  padding: 40px;
+}
+
+.c2 {
+  width: 100%;
+  height: 20px;
+}
+
+.c4 {
+  width: 100%;
+  height: 10px;
+}
+
+.c30 {
+  width: 100%;
+  height: 25px;
+}
+
+.c46 {
+  width: 100%;
+  height: 30px;
+}
+
+.c34 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c47 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: right;
+  -webkit-justify-content: right;
+  -ms-flex-pack: right;
+  justify-content: right;
+}
+
+@media print {
+  .c21 {
+    color-adjust: exact;
+  }
+}
+
+@media (hover:none) {
+  .c43:hover {
+    background-color: transparent;
+  }
+}
+
+@media (pointer:fine) {
+  .c36:hover .MuiAutocomplete-clearIndicator {
+    visibility: visible;
+  }
+}
+
+@media (hover:none) {
+  .c48:hover {
+    background-color: transparent;
+  }
+}
+
+@media (hover:none) {
+  .c49:hover {
+    background-color: #00758e;
+  }
+}
+
+@media (hover:none) {
+  .c7:hover .MuiOutlinedInput-notchedOutline {
+    border-color: rgba(0,0,0,0.23);
+  }
+}
+
+@media (hover:none) {
+  .c39:hover .MuiOutlinedInput-notchedOutline {
+    border-color: rgba(0,0,0,0.23);
+  }
+}
+
+@media (hover:none) {
+  .c23:hover {
+    background-color: transparent;
+  }
+}
+
+<body>
+    <div>
+      <div
+        class="c0"
+      >
+        <span
+          class="c1 MuiTypography-root MuiTypography-title"
+        >
+          Template Setup
+        </span>
+        <div
+          class="c2"
+          size="20"
+        />
+        <h3
+          class="c3 MuiTypography-root MuiTypography-h3"
+        >
+          Template Type
+        </h3>
+        <div
+          class="c4"
+        />
+        <span
+          class="c5 MuiTypography-root MuiTypography-textSmall"
+        >
+          Product Model
+        </span>
+        <div
+          class="c4"
+        />
+        <div
+          class="c6 c7 MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiSelect-root-kTniIo c8"
+        >
+          <div
+            aria-expanded="false"
+            aria-haspopup="listbox"
+            class="c9 MuiSelect-select MuiSelect-outlined c10 c11 c12 MuiOutlinedInput-input MuiInputBase-input"
+            role="button"
+            tabindex="0"
+          >
+            <span
+              class="notranslate"
+            >
+              ​
+            </span>
+          </div>
+          <input
+            aria-hidden="true"
+            class="c13 MuiSelect-nativeInput"
+            data-testid="Select"
+            tabindex="-1"
+            value=""
+          />
+          <svg
+            aria-hidden="true"
+            class="c14 MuiSvgIcon-root MuiSvgIcon-fontSizeMedium c15 MuiSelect-icon MuiSelect-iconOutlined"
+            data-testid="ArrowDropDownIcon"
+            focusable="false"
+            viewBox="0 0 24 24"
+          >
+            <path
+              d="M7 10l5 5 5-5z"
+            />
+          </svg>
+          <fieldset
+            aria-hidden="true"
+            class="c16 c17 MuiOutlinedInput-notchedOutline"
+          >
+            <legend
+              class="c18"
+            >
+              <span
+                class="notranslate"
+              >
+                ​
+              </span>
+            </legend>
+          </fieldset>
+        </div>
+        <div
+          class="c2"
+          size="20"
+        />
+        <span
+          class="c5 MuiTypography-root MuiTypography-textSmall"
+        >
+          Product Type
+        </span>
+        <div
+          class="c19 MuiFormGroup-root"
+          role="radiogroup"
+        >
+          <label
+            class="c20 MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd"
+          >
+            <span
+              class="c21 MuiRadio-root MuiRadio-colorPrimary MuiButtonBase-root c22 MuiRadio-root MuiRadio-colorPrimary PrivateSwitchBase-root Mui-checked c23"
+            >
+              <input
+                checked=""
+                class="c24 PrivateSwitchBase-input"
+                data-testid="RadioButton"
+                name="mui-1"
+                type="radio"
+                value="US"
+              />
+              <svg
+                font-size="small"
+                height="24"
+                width="24"
+              >
+                checkbox_checked.svg
+              </svg>
+            </span>
+            <span
+              class="c25 MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label"
+            >
+              US
+            </span>
+          </label>
+          <label
+            class="c20 MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd"
+          >
+            <span
+              class="c21 MuiRadio-root MuiRadio-colorPrimary MuiButtonBase-root c22 MuiRadio-root MuiRadio-colorPrimary PrivateSwitchBase-root c23"
+            >
+              <input
+                class="c24 PrivateSwitchBase-input"
+                data-testid="RadioButton"
+                name="mui-1"
+                type="radio"
+                value="International"
+              />
+              <span
+                class="c26"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="c27 MuiSvgIcon-root MuiSvgIcon-fontSizeSmall c28"
+                  data-testid="RadioButtonUncheckedIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                  />
+                </svg>
+                <svg
+                  aria-hidden="true"
+                  class="c27 MuiSvgIcon-root MuiSvgIcon-fontSizeSmall c29"
+                  data-testid="RadioButtonCheckedIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+                  />
+                </svg>
+              </span>
+            </span>
+            <span
+              class="c25 MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label"
+            >
+              International
+            </span>
+          </label>
+        </div>
+        <div
+          class="c30"
+          size="25"
+        />
+        <h3
+          class="c3 MuiTypography-root MuiTypography-h3"
+        >
+          Template Info
+        </h3>
+        <div
+          class="c4"
+        />
+        <label>
+          <span
+            class="c31 MuiTypography-root MuiTypography-textBasic"
+          >
+            Template Name (required)
+          </span>
+          <div
+            class="c6 c32 MuiInput-root MuiInputBase-root MuiInputBase-colorPrimary c33"
+          >
+            <input
+              class="c10 MuiInput-input-ulsMd c11 MuiInput-input MuiInputBase-input"
+              placeholder="Enter Template Name"
+              type="text"
+              value=""
+            />
+          </div>
+        </label>
+        <div
+          class="c4"
+        />
+        <label>
+          <span
+            class="c31 MuiTypography-root MuiTypography-textBasic"
+          >
+            Author (required)
+          </span>
+          <div
+            class="c6 c32 MuiInput-root MuiInputBase-root MuiInputBase-colorPrimary c33"
+          >
+            <input
+              class="c10 MuiInput-input-ulsMd c11 MuiInput-input MuiInputBase-input"
+              placeholder="Enter Author"
+              type="text"
+              value=""
+            />
+          </div>
+        </label>
+        <div
+          class="c4"
+        />
+        <div
+          class="c34"
+        >
+          <div
+            style="flex: 1; margin-right: 10px;"
+          >
+            <label>
+              <span
+                class="c31 MuiTypography-root MuiTypography-textBasic"
+              >
+                ISBN
+              </span>
+              <div
+                class="c6 c32 MuiInput-root MuiInputBase-root MuiInputBase-colorPrimary c33"
+              >
+                <input
+                  class="c10 MuiInput-input-ulsMd c11 MuiInput-input MuiInputBase-input"
+                  placeholder="Enter ISBN"
+                  type="text"
+                  value=""
+                />
+              </div>
+            </label>
+          </div>
+          <div
+            style="flex: 1;"
+          >
+            <label>
+              <span
+                class="c31 MuiTypography-root MuiTypography-textBasic"
+              >
+                E-book Link
+              </span>
+              <div
+                class="c6 c32 MuiInput-root MuiInputBase-root MuiInputBase-colorPrimary c33"
+              >
+                <input
+                  class="c10 MuiInput-input-ulsMd c11 MuiInput-input MuiInputBase-input"
+                  placeholder="Paste e-book link here"
+                  type="text"
+                  value=""
+                />
+              </div>
+            </label>
+          </div>
+        </div>
+        <div
+          class="c4"
+        />
+        <span
+          class="c5 MuiTypography-root MuiTypography-textSmall"
+        >
+          Taxonomy
+        </span>
+        <div
+          class="c4"
+        />
+        <div
+          class="c35 c36 MuiAutocomplete-root MuiAutocomplete-hasClearIcon MuiAutocomplete-hasPopupIcon"
+        >
+          <div
+            class="c37 MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root-hmJIk MuiTextField-root"
+          >
+            <div
+              class="c38 c39 MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-sizeSmall MuiInputBase-adornedEnd MuiAutocomplete-inputRoot"
+            >
+              <input
+                aria-autocomplete="list"
+                aria-expanded="false"
+                aria-invalid="false"
+                autocapitalize="none"
+                autocomplete="off"
+                class="c10 c40 c41 MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputSizeSmall MuiInputBase-inputAdornedEnd MuiAutocomplete-input MuiAutocomplete-inputFocused"
+                id="mui-3"
+                role="combobox"
+                spellcheck="false"
+                type="text"
+                value="taxonomy#1"
+              />
+              <div
+                class="c42 MuiAutocomplete-endAdornment"
+              >
+                <button
+                  aria-label="Clear"
+                  class="c21 MuiButtonBase-root c43 MuiIconButton-root MuiIconButton-sizeMedium c44 MuiAutocomplete-clearIndicator"
+                  tabindex="-1"
+                  title="Clear"
+                  type="button"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="c27 MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+                    data-testid="CloseIcon"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+                    />
+                  </svg>
+                </button>
+                <button
+                  aria-label="Open"
+                  class="c21 MuiButtonBase-root c43 MuiIconButton-root MuiIconButton-sizeMedium c45 MuiAutocomplete-popupIndicator"
+                  tabindex="-1"
+                  title="Open"
+                  type="button"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="c14 MuiSvgIcon-root MuiSvgIcon-fontSizeMedium"
+                    data-testid="ArrowDropDownIcon"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M7 10l5 5 5-5z"
+                    />
+                  </svg>
+                </button>
+              </div>
+              <fieldset
+                aria-hidden="true"
+                class="c16 c17 MuiOutlinedInput-notchedOutline"
+              >
+                <legend
+                  class="c18"
+                >
+                  <span
+                    class="notranslate"
+                  >
+                    ​
+                  </span>
+                </legend>
+              </fieldset>
+            </div>
+          </div>
+        </div>
+        <div
+          class="c4"
+        />
+        <span
+          class="c5 MuiTypography-root MuiTypography-textSmall"
+        >
+          Learning Objective collection
+        </span>
+        <div
+          class="c4"
+        />
+        <div
+          class="c35 c36 MuiAutocomplete-root MuiAutocomplete-hasClearIcon MuiAutocomplete-hasPopupIcon"
+        >
+          <div
+            class="c37 MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root-hmJIk MuiTextField-root"
+          >
+            <div
+              class="c38 c39 MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-sizeSmall MuiInputBase-adornedEnd MuiAutocomplete-inputRoot"
+            >
+              <input
+                aria-autocomplete="list"
+                aria-expanded="false"
+                aria-invalid="false"
+                autocapitalize="none"
+                autocomplete="off"
+                class="c10 c40 c41 MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputSizeSmall MuiInputBase-inputAdornedEnd MuiAutocomplete-input MuiAutocomplete-inputFocused"
+                id="mui-5"
+                role="combobox"
+                spellcheck="false"
+                type="text"
+                value="mock-framework-name"
+              />
+              <div
+                class="c42 MuiAutocomplete-endAdornment"
+              >
+                <button
+                  aria-label="Clear"
+                  class="c21 MuiButtonBase-root c43 MuiIconButton-root MuiIconButton-sizeMedium c44 MuiAutocomplete-clearIndicator"
+                  tabindex="-1"
+                  title="Clear"
+                  type="button"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="c27 MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+                    data-testid="CloseIcon"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+                    />
+                  </svg>
+                </button>
+                <button
+                  aria-label="Open"
+                  class="c21 MuiButtonBase-root c43 MuiIconButton-root MuiIconButton-sizeMedium c45 MuiAutocomplete-popupIndicator"
+                  tabindex="-1"
+                  title="Open"
+                  type="button"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="c14 MuiSvgIcon-root MuiSvgIcon-fontSizeMedium"
+                    data-testid="ArrowDropDownIcon"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M7 10l5 5 5-5z"
+                    />
+                  </svg>
+                </button>
+              </div>
+              <fieldset
+                aria-hidden="true"
+                class="c16 c17 MuiOutlinedInput-notchedOutline"
+              >
+                <legend
+                  class="c18"
+                >
+                  <span
+                    class="notranslate"
+                  >
+                    ​
+                  </span>
+                </legend>
+              </fieldset>
+            </div>
+          </div>
+        </div>
+        <div
+          class="c46"
+          size="30"
+        />
+        <div
+          class="c47"
+        >
+          <div
+            style="margin-right: 10px;"
+          >
+            <button
+              class="c21 MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButtonBase-root c48"
+              data-testid="cancel-button"
+              tabindex="0"
+              test-id="cancel-button"
+              type="button"
+            >
+              Cancel
+            </button>
+          </div>
+          <div>
+            <button
+              class="c21 MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root c49"
+              data-testid="save-button"
+              tabindex="0"
+              test-id="save-button"
+              type="button"
+            >
+              Create Template
+            </button>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>,
+  "container": .c14 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  fill: currentColor;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  font-size: 1.5rem;
+}
+
+.c27 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  fill: currentColor;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  font-size: 1.25rem;
+}
+
+.c21 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  position: relative;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  background-color: transparent;
+  outline: 0;
+  border: 0;
+  margin: 0;
+  border-radius: 0;
+  padding: 0;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  vertical-align: middle;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: inherit;
+}
+
+.c21::-moz-focus-inner {
+  border-style: none;
+}
+
+.c21.Mui-disabled {
+  pointer-events: none;
+  cursor: default;
+}
+
+.c43 {
+  text-align: center;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  font-size: 1.5rem;
+  padding: 8px;
+  border-radius: 50%;
+  overflow: visible;
+  color: rgba(0,0,0,0.54);
+  -webkit-transition: background-color 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: background-color 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c43:hover {
+  background-color: rgba(0,0,0,0.04);
+}
+
+.c43.Mui-disabled {
+  background-color: transparent;
+  color: rgba(0,0,0,0.26);
+}
+
+.c1 {
+  margin: 0;
+  color: #080808;
+  font-size: 28px;
+  font-family: Source Sans Pro;
+  font-weight: 200;
+  font-style: normal;
+}
+
+.c3 {
+  margin: 0;
+  color: #080808;
+  font-size: 18px;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 1.167;
+}
+
+.c5 {
+  margin: 0;
+  color: #080808;
+  font-size: 14px;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  font-style: normal;
+  color: #686868;
+}
+
+.c25 {
+  margin: 0;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Source Sans Pro,sans-serif;
+  font-weight: normal;
+  font-size: 1rem;
+  line-height: 1.5;
+}
+
+.c31 {
+  margin: 0;
+  color: #080808;
+  font-size: 16px;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  font-style: normal;
+  color: #383838;
+  line-height: 20px;
+}
+
+.c6 {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Source Sans Pro,sans-serif;
+  font-weight: normal;
+  font-size: 1rem;
+  line-height: 1.4375em;
+  color: rgba(0,0,0,0.87);
+  box-sizing: border-box;
+  position: relative;
+  cursor: text;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c6.Mui-disabled {
+  color: rgba(0,0,0,0.38);
+  cursor: default;
+}
+
+.c38 {
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Source Sans Pro,sans-serif;
+  font-weight: normal;
+  font-size: 1rem;
+  line-height: 1.4375em;
+  color: rgba(0,0,0,0.87);
+  box-sizing: border-box;
+  position: relative;
+  cursor: text;
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100%;
+}
+
+.c38.Mui-disabled {
+  color: rgba(0,0,0,0.38);
+  cursor: default;
+}
+
+.c11 {
+  font: inherit;
+  -webkit-letter-spacing: inherit;
+  -moz-letter-spacing: inherit;
+  -ms-letter-spacing: inherit;
+  letter-spacing: inherit;
+  color: currentColor;
+  padding: 4px 0 5px;
+  border: 0;
+  box-sizing: content-box;
+  background: none;
+  height: 1.4375em;
+  margin: 0;
+  -webkit-tap-highlight-color: transparent;
+  display: block;
+  min-width: 0;
+  width: 100%;
+  -webkit-animation-name: mui-auto-fill-cancel;
+  animation-name: mui-auto-fill-cancel;
+  -webkit-animation-duration: 10ms;
+  animation-duration: 10ms;
+}
+
+.c11::-webkit-input-placeholder {
+  color: currentColor;
+  opacity: 0.42;
+  -webkit-transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c11::-moz-placeholder {
+  color: currentColor;
+  opacity: 0.42;
+  -webkit-transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c11:-ms-input-placeholder {
+  color: currentColor;
+  opacity: 0.42;
+  -webkit-transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c11::-ms-input-placeholder {
+  color: currentColor;
+  opacity: 0.42;
+  -webkit-transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c11:focus {
+  outline: 0;
+}
+
+.c11:invalid {
+  box-shadow: none;
+}
+
+.c11::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10::-webkit-input-placeholder {
+  opacity: 0 !important;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10::-moz-placeholder {
+  opacity: 0 !important;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10:-ms-input-placeholder {
+  opacity: 0 !important;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10::-ms-input-placeholder {
+  opacity: 0 !important;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10:focus::-webkit-input-placeholder {
+  opacity: 0.42;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10:focus::-moz-placeholder {
+  opacity: 0.42;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10:focus:-ms-input-placeholder {
+  opacity: 0.42;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10:focus::-ms-input-placeholder {
+  opacity: 0.42;
+}
+
+.c11.Mui-disabled {
+  opacity: 1;
+  -webkit-text-fill-color: rgba(0,0,0,0.38);
+}
+
+.c11:-webkit-autofill {
+  -webkit-animation-duration: 5000s;
+  animation-duration: 5000s;
+  -webkit-animation-name: mui-auto-fill;
+  animation-name: mui-auto-fill;
+}
+
+.c40 {
+  font: inherit;
+  -webkit-letter-spacing: inherit;
+  -moz-letter-spacing: inherit;
+  -ms-letter-spacing: inherit;
+  letter-spacing: inherit;
+  color: currentColor;
+  padding: 4px 0 5px;
+  border: 0;
+  box-sizing: content-box;
+  background: none;
+  height: 1.4375em;
+  margin: 0;
+  -webkit-tap-highlight-color: transparent;
+  display: block;
+  min-width: 0;
+  width: 100%;
+  -webkit-animation-name: mui-auto-fill-cancel;
+  animation-name: mui-auto-fill-cancel;
+  -webkit-animation-duration: 10ms;
+  animation-duration: 10ms;
+  padding-top: 1px;
+}
+
+.c40::-webkit-input-placeholder {
+  color: currentColor;
+  opacity: 0.42;
+  -webkit-transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c40::-moz-placeholder {
+  color: currentColor;
+  opacity: 0.42;
+  -webkit-transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c40:-ms-input-placeholder {
+  color: currentColor;
+  opacity: 0.42;
+  -webkit-transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c40::-ms-input-placeholder {
+  color: currentColor;
+  opacity: 0.42;
+  -webkit-transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: opacity 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+}
+
+.c40:focus {
+  outline: 0;
+}
+
+.c40:invalid {
+  box-shadow: none;
+}
+
+.c40::-webkit-search-decoration {
+  -webkit-appearance: none;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10::-webkit-input-placeholder {
+  opacity: 0 !important;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10::-moz-placeholder {
+  opacity: 0 !important;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10:-ms-input-placeholder {
+  opacity: 0 !important;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10::-ms-input-placeholder {
+  opacity: 0 !important;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10:focus::-webkit-input-placeholder {
+  opacity: 0.42;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10:focus::-moz-placeholder {
+  opacity: 0.42;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10:focus:-ms-input-placeholder {
+  opacity: 0.42;
+}
+
+label[data-shrink=false] + .MuiInputBase-formControl .c10:focus::-ms-input-placeholder {
+  opacity: 0.42;
+}
+
+.c40.Mui-disabled {
+  opacity: 1;
+  -webkit-text-fill-color: rgba(0,0,0,0.38);
+}
+
+.c40:-webkit-autofill {
+  -webkit-animation-duration: 5000s;
+  animation-duration: 5000s;
+  -webkit-animation-name: mui-auto-fill;
+  animation-name: mui-auto-fill;
+}
+
+.c36.Mui-focused .MuiAutocomplete-clearIndicator {
+  visibility: visible;
+}
+
+.c36 .MuiAutocomplete-tag {
+  margin: 2px;
+  max-width: calc(100% - 4px);
+}
+
+.c36 .MuiAutocomplete-inputRoot {
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.MuiAutocomplete-hasPopupIcon.c35 .MuiAutocomplete-inputRoot,
+.MuiAutocomplete-hasClearIcon.c36 .MuiAutocomplete-inputRoot {
+  padding-right: 30px;
+}
+
+.MuiAutocomplete-hasPopupIcon.MuiAutocomplete-hasClearIcon.c35 .MuiAutocomplete-inputRoot {
+  padding-right: 56px;
+}
+
+.c36 .MuiAutocomplete-inputRoot .MuiAutocomplete-input {
+  width: 0;
+  min-width: 30px;
+}
+
+.c36 .MuiInput-root {
+  padding-bottom: 1px;
+}
+
+.c36 .MuiInput-root .MuiInput-input {
+  padding: 4px 4px 4px 0px;
+}
+
+.c36 .MuiInput-root.MuiInputBase-sizeSmall .MuiInput-input {
+  padding: 2px 4px 3px 0;
+}
+
+.c36 .MuiOutlinedInput-root {
+  padding: 9px;
+}
+
+.MuiAutocomplete-hasPopupIcon.c35 .MuiOutlinedInput-root,
+.MuiAutocomplete-hasClearIcon.c36 .MuiOutlinedInput-root {
+  padding-right: 39px;
+}
+
+.MuiAutocomplete-hasPopupIcon.MuiAutocomplete-hasClearIcon.c35 .MuiOutlinedInput-root {
+  padding-right: 65px;
+}
+
+.c36 .MuiOutlinedInput-root .MuiAutocomplete-input {
+  padding: 7.5px 4px 7.5px 6px;
+}
+
+.c36 .MuiOutlinedInput-root .MuiAutocomplete-endAdornment {
+  right: 9px;
+}
+
+.c36 .MuiOutlinedInput-root.MuiInputBase-sizeSmall {
+  padding: 6px;
+}
+
+.c36 .MuiOutlinedInput-root.MuiInputBase-sizeSmall .MuiAutocomplete-input {
+  padding: 2.5px 4px 2.5px 6px;
+}
+
+.c36 .MuiFilledInput-root {
+  padding-top: 19px;
+  padding-left: 8px;
+}
+
+.MuiAutocomplete-hasPopupIcon.c35 .MuiFilledInput-root,
+.MuiAutocomplete-hasClearIcon.c36 .MuiFilledInput-root {
+  padding-right: 39px;
+}
+
+.MuiAutocomplete-hasPopupIcon.MuiAutocomplete-hasClearIcon.c35 .MuiFilledInput-root {
+  padding-right: 65px;
+}
+
+.c36 .MuiFilledInput-root .MuiFilledInput-input {
+  padding: 7px 4px;
+}
+
+.c36 .MuiFilledInput-root .MuiAutocomplete-endAdornment {
+  right: 9px;
+}
+
+.c36 .MuiFilledInput-root.MuiInputBase-sizeSmall {
+  padding-bottom: 1px;
+}
+
+.c36 .MuiFilledInput-root.MuiInputBase-sizeSmall .MuiFilledInput-input {
+  padding: 2.5px 4px;
+}
+
+.c36 .MuiInputBase-hiddenLabel {
+  padding-top: 8px;
+}
+
+.c36 .MuiAutocomplete-input {
+  -webkit-box-flex: 1;
+  -webkit-flex-grow: 1;
+  -ms-flex-positive: 1;
+  flex-grow: 1;
+  text-overflow: ellipsis;
+  opacity: 1;
+}
+
+.c42 {
+  position: absolute;
+  right: 0;
+  top: calc(50% - 14px);
+}
+
+.c44 {
+  margin-right: -2px;
+  padding: 4px;
+  visibility: hidden;
+}
+
+.c45 {
+  padding: 2px;
+  margin-right: -2px;
+}
+
+.c48 {
+  font-size: 14px;
+  text-transform: uppercase;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Source Sans Pro,sans-serif;
+  font-weight: normal;
+  line-height: 1.75;
+  min-width: 64px;
+  padding: 5px 15px;
+  border-radius: 4px;
+  -webkit-transition: background-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,box-shadow 250ms cubic-bezier(0.4,0,0.2,1) 0ms,border-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,color 250ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: background-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,box-shadow 250ms cubic-bezier(0.4,0,0.2,1) 0ms,border-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,color 250ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  border: 1px solid rgba(0,117,142,0.5);
+  color: #00758e;
+}
+
+.c48:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  background-color: rgba(0,117,142,0.04);
+  border: 1px solid #00758e;
+}
+
+.c48.Mui-disabled {
+  color: rgba(0,0,0,0.26);
+  border: 1px solid rgba(0,0,0,0.12);
+}
+
+.c49 {
+  font-size: 14px;
+  text-transform: uppercase;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Source Sans Pro,sans-serif;
+  font-weight: normal;
+  line-height: 1.75;
+  min-width: 64px;
+  padding: 6px 16px;
+  border-radius: 4px;
+  -webkit-transition: background-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,box-shadow 250ms cubic-bezier(0.4,0,0.2,1) 0ms,border-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,color 250ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: background-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,box-shadow 250ms cubic-bezier(0.4,0,0.2,1) 0ms,border-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,color 250ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  color: #fff;
+  background-color: #00758e;
+  box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2),0px 2px 2px 0px rgba(0,0,0,0.14),0px 1px 5px 0px rgba(0,0,0,0.12);
+}
+
+.c49:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  background-color: rgb(0,81,99);
+  box-shadow: 0px 2px 4px -1px rgba(0,0,0,0.2),0px 4px 5px 0px rgba(0,0,0,0.14),0px 1px 10px 0px rgba(0,0,0,0.12);
+}
+
+.c49:active {
+  box-shadow: 0px 5px 5px -3px rgba(0,0,0,0.2),0px 8px 10px 1px rgba(0,0,0,0.14),0px 3px 14px 2px rgba(0,0,0,0.12);
+}
+
+.c49.Mui-focusVisible {
+  box-shadow: 0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12);
+}
+
+.c49.Mui-disabled {
+  color: rgba(0,0,0,0.26);
+  box-shadow: none;
+  background-color: rgba(0,0,0,0.12);
+}
+
+.c22 {
+  padding: 9px;
+  border-radius: 50%;
+}
+
+.c24 {
+  cursor: inherit;
+  position: absolute;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  z-index: 1;
+}
+
+.c37 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  position: relative;
+  min-width: 0;
+  padding: 0;
+  margin: 0;
+  border: 0;
+  vertical-align: top;
+  width: 100%;
+}
+
+.c20 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  cursor: pointer;
+  vertical-align: middle;
+  -webkit-tap-highlight-color: transparent;
+  margin-left: -11px;
+  margin-right: 16px;
+}
+
+.c20.Mui-disabled {
+  cursor: default;
+}
+
+.c20 .MuiFormControlLabel-label.Mui-disabled {
+  color: rgba(0,0,0,0.38);
+}
+
+.c19 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+}
+
+.c32 {
+  position: relative;
+}
+
+.c16 {
+  text-align: left;
+  position: absolute;
+  bottom: 0;
+  right: 0;
+  top: -5px;
+  left: 0;
+  margin: 0;
+  padding: 0 8px;
+  pointer-events: none;
+  border-radius: inherit;
+  border-style: solid;
+  border-width: 1px;
+  overflow: hidden;
+  min-width: 0%;
+}
+
+.c18 {
+  float: unset;
+  overflow: hidden;
+  padding: 0;
+  line-height: 11px;
+  -webkit-transition: width 150ms cubic-bezier(0.0,0,0.2,1) 0ms;
+  transition: width 150ms cubic-bezier(0.0,0,0.2,1) 0ms;
+}
+
+.c7 {
+  position: relative;
+  border-radius: 4px;
+}
+
+.c7:hover .MuiOutlinedInput-notchedOutline {
+  border-color: rgba(0,0,0,0.87);
+}
+
+.c7.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: #00758e;
+  border-width: 2px;
+}
+
+.c7.Mui-error .MuiOutlinedInput-notchedOutline {
+  border-color: #d32f2f;
+}
+
+.c7.Mui-disabled .MuiOutlinedInput-notchedOutline {
+  border-color: rgba(0,0,0,0.26);
+}
+
+.c39 {
+  position: relative;
+  border-radius: 4px;
+  padding-right: 14px;
+}
+
+.c39:hover .MuiOutlinedInput-notchedOutline {
+  border-color: rgba(0,0,0,0.87);
+}
+
+.c39.Mui-focused .MuiOutlinedInput-notchedOutline {
+  border-color: #00758e;
+  border-width: 2px;
+}
+
+.c39.Mui-error .MuiOutlinedInput-notchedOutline {
+  border-color: #d32f2f;
+}
+
+.c39.Mui-disabled .MuiOutlinedInput-notchedOutline {
+  border-color: rgba(0,0,0,0.26);
+}
+
+.c17 {
+  border-color: rgba(0,0,0,0.23);
+}
+
+.c12 {
+  padding: 16.5px 14px;
+}
+
+.c12:-webkit-autofill {
+  border-radius: inherit;
+}
+
+.c41 {
+  padding: 8.5px 14px;
+  padding-right: 0;
+}
+
+.c41:-webkit-autofill {
+  border-radius: inherit;
+}
+
+.c26 {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c28 {
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+}
+
+.c29 {
+  left: 0;
+  position: absolute;
+  -webkit-transform: scale(0);
+  -ms-transform: scale(0);
+  transform: scale(0);
+  -webkit-transition: -webkit-transform 150ms cubic-bezier(0.4,0,1,1) 0ms;
+  -webkit-transition: transform 150ms cubic-bezier(0.4,0,1,1) 0ms;
+  transition: transform 150ms cubic-bezier(0.4,0,1,1) 0ms;
+}
+
+.c23 {
+  color: rgba(0,0,0,0.6);
+}
+
+.c23:hover {
+  background-color: rgba(0,117,142,0.04);
+}
+
+.c23.Mui-checked {
+  color: #00758e;
+}
+
+.c23.Mui-disabled {
+  color: rgba(0,0,0,0.26);
+}
+
+.c9 {
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  border-radius: 4px;
+  cursor: pointer;
+}
+
+.c9:focus {
+  border-radius: 4px;
+}
+
+.c9::-ms-expand {
+  display: none;
+}
+
+.c9.Mui-disabled {
+  cursor: default;
+}
+
+.c9[multiple] {
+  height: auto;
+}
+
+.c9:not([multiple]) option,
+.c9:not([multiple]) optgroup {
+  background-color: #ffffff;
+}
+
+.c9.c9.c9 {
+  padding-right: 32px;
+}
+
+.c9.MuiSelect-select {
+  height: auto;
+  min-height: 1.4375em;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+  overflow: hidden;
+}
+
+.c15 {
+  position: absolute;
+  right: 7px;
+  top: calc(50% - .5em);
+  pointer-events: none;
+  color: rgba(0,0,0,0.54);
+}
+
+.c15.Mui-disabled {
+  color: rgba(0,0,0,0.26);
+}
+
+.c13 {
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  opacity: 0;
+  pointer-events: none;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.c8 {
+  border: 1px solid #989898;
+  border-radius: 0;
+  outline: none;
+}
+
+.c8 .MuiSelect-icon {
+  fill: #00758e;
+}
+
+.c8 .MuiSelect-select {
+  padding: 4px 37px 4px 6px;
+  min-width: 160px;
+  box-sizing: border-box;
+  color: #080808;
+}
+
+.c8 fieldset {
+  border: none;
+}
+
+.c33 {
+  border: 1px solid #686868;
+  padding: 7px 10px 7px 7px;
+  width: 100%;
+}
+
+.c33 input {
+  padding: 0;
+}
+
+.c33 input::-webkit-input-placeholder {
+  line-height: 20px;
+  color: #686868;
+  opacity: 1;
+  font-style: italic;
+}
+
+.c33 input::-moz-placeholder {
+  line-height: 20px;
+  color: #686868;
+  opacity: 1;
+  font-style: italic;
+}
+
+.c33 input:-ms-input-placeholder {
+  line-height: 20px;
+  color: #686868;
+  opacity: 1;
+  font-style: italic;
+}
+
+.c33 input::placeholder {
+  line-height: 20px;
+  color: #686868;
+  opacity: 1;
+  font-style: italic;
+}
+
+.c0 {
+  background-color: #ffffff;
+  margin: 100px 40px 40px 40px;
+  padding: 40px;
+}
+
+.c2 {
+  width: 100%;
+  height: 20px;
+}
+
+.c4 {
+  width: 100%;
+  height: 10px;
+}
+
+.c30 {
+  width: 100%;
+  height: 25px;
+}
+
+.c46 {
+  width: 100%;
+  height: 30px;
+}
+
+.c34 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c47 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: right;
+  -webkit-justify-content: right;
+  -ms-flex-pack: right;
+  justify-content: right;
+}
+
+@media print {
+  .c21 {
+    color-adjust: exact;
+  }
+}
+
+@media (hover:none) {
+  .c43:hover {
+    background-color: transparent;
+  }
+}
+
+@media (pointer:fine) {
+  .c36:hover .MuiAutocomplete-clearIndicator {
+    visibility: visible;
+  }
+}
+
+@media (hover:none) {
+  .c48:hover {
+    background-color: transparent;
+  }
+}
+
+@media (hover:none) {
+  .c49:hover {
+    background-color: #00758e;
+  }
+}
+
+@media (hover:none) {
+  .c7:hover .MuiOutlinedInput-notchedOutline {
+    border-color: rgba(0,0,0,0.23);
+  }
+}
+
+@media (hover:none) {
+  .c39:hover .MuiOutlinedInput-notchedOutline {
+    border-color: rgba(0,0,0,0.23);
+  }
+}
+
+@media (hover:none) {
+  .c23:hover {
+    background-color: transparent;
+  }
+}
+
+<div>
+    <div
+      class="c0"
+    >
+      <span
+        class="c1 MuiTypography-root MuiTypography-title"
+      >
+        Template Setup
+      </span>
+      <div
+        class="c2"
+        size="20"
+      />
+      <h3
+        class="c3 MuiTypography-root MuiTypography-h3"
+      >
+        Template Type
+      </h3>
+      <div
+        class="c4"
+      />
+      <span
+        class="c5 MuiTypography-root MuiTypography-textSmall"
+      >
+        Product Model
+      </span>
+      <div
+        class="c4"
+      />
+      <div
+        class="c6 c7 MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiSelect-root-kTniIo c8"
+      >
+        <div
+          aria-expanded="false"
+          aria-haspopup="listbox"
+          class="c9 MuiSelect-select MuiSelect-outlined c10 c11 c12 MuiOutlinedInput-input MuiInputBase-input"
+          role="button"
+          tabindex="0"
+        >
+          <span
+            class="notranslate"
+          >
+            ​
+          </span>
+        </div>
+        <input
+          aria-hidden="true"
+          class="c13 MuiSelect-nativeInput"
+          data-testid="Select"
+          tabindex="-1"
+          value=""
+        />
+        <svg
+          aria-hidden="true"
+          class="c14 MuiSvgIcon-root MuiSvgIcon-fontSizeMedium c15 MuiSelect-icon MuiSelect-iconOutlined"
+          data-testid="ArrowDropDownIcon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M7 10l5 5 5-5z"
+          />
+        </svg>
+        <fieldset
+          aria-hidden="true"
+          class="c16 c17 MuiOutlinedInput-notchedOutline"
+        >
+          <legend
+            class="c18"
+          >
+            <span
+              class="notranslate"
+            >
+              ​
+            </span>
+          </legend>
+        </fieldset>
+      </div>
+      <div
+        class="c2"
+        size="20"
+      />
+      <span
+        class="c5 MuiTypography-root MuiTypography-textSmall"
+      >
+        Product Type
+      </span>
+      <div
+        class="c19 MuiFormGroup-root"
+        role="radiogroup"
+      >
+        <label
+          class="c20 MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd"
+        >
+          <span
+            class="c21 MuiRadio-root MuiRadio-colorPrimary MuiButtonBase-root c22 MuiRadio-root MuiRadio-colorPrimary PrivateSwitchBase-root Mui-checked c23"
+          >
+            <input
+              checked=""
+              class="c24 PrivateSwitchBase-input"
+              data-testid="RadioButton"
+              name="mui-1"
+              type="radio"
+              value="US"
+            />
+            <svg
+              font-size="small"
+              height="24"
+              width="24"
+            >
+              checkbox_checked.svg
+            </svg>
+          </span>
+          <span
+            class="c25 MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label"
+          >
+            US
+          </span>
+        </label>
+        <label
+          class="c20 MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd"
+        >
+          <span
+            class="c21 MuiRadio-root MuiRadio-colorPrimary MuiButtonBase-root c22 MuiRadio-root MuiRadio-colorPrimary PrivateSwitchBase-root c23"
+          >
+            <input
+              class="c24 PrivateSwitchBase-input"
+              data-testid="RadioButton"
+              name="mui-1"
+              type="radio"
+              value="International"
+            />
+            <span
+              class="c26"
+            >
+              <svg
+                aria-hidden="true"
+                class="c27 MuiSvgIcon-root MuiSvgIcon-fontSizeSmall c28"
+                data-testid="RadioButtonUncheckedIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                />
+              </svg>
+              <svg
+                aria-hidden="true"
+                class="c27 MuiSvgIcon-root MuiSvgIcon-fontSizeSmall c29"
+                data-testid="RadioButtonCheckedIcon"
+                focusable="false"
+                viewBox="0 0 24 24"
+              >
+                <path
+                  d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+                />
+              </svg>
+            </span>
+          </span>
+          <span
+            class="c25 MuiTypography-root MuiTypography-body1 MuiFormControlLabel-label"
+          >
+            International
+          </span>
+        </label>
+      </div>
+      <div
+        class="c30"
+        size="25"
+      />
+      <h3
+        class="c3 MuiTypography-root MuiTypography-h3"
+      >
+        Template Info
+      </h3>
+      <div
+        class="c4"
+      />
+      <label>
+        <span
+          class="c31 MuiTypography-root MuiTypography-textBasic"
+        >
+          Template Name (required)
+        </span>
+        <div
+          class="c6 c32 MuiInput-root MuiInputBase-root MuiInputBase-colorPrimary c33"
+        >
+          <input
+            class="c10 MuiInput-input-ulsMd c11 MuiInput-input MuiInputBase-input"
+            placeholder="Enter Template Name"
+            type="text"
+            value=""
+          />
+        </div>
+      </label>
+      <div
+        class="c4"
+      />
+      <label>
+        <span
+          class="c31 MuiTypography-root MuiTypography-textBasic"
+        >
+          Author (required)
+        </span>
+        <div
+          class="c6 c32 MuiInput-root MuiInputBase-root MuiInputBase-colorPrimary c33"
+        >
+          <input
+            class="c10 MuiInput-input-ulsMd c11 MuiInput-input MuiInputBase-input"
+            placeholder="Enter Author"
+            type="text"
+            value=""
+          />
+        </div>
+      </label>
+      <div
+        class="c4"
+      />
+      <div
+        class="c34"
+      >
+        <div
+          style="flex: 1; margin-right: 10px;"
+        >
+          <label>
+            <span
+              class="c31 MuiTypography-root MuiTypography-textBasic"
+            >
+              ISBN
+            </span>
+            <div
+              class="c6 c32 MuiInput-root MuiInputBase-root MuiInputBase-colorPrimary c33"
+            >
+              <input
+                class="c10 MuiInput-input-ulsMd c11 MuiInput-input MuiInputBase-input"
+                placeholder="Enter ISBN"
+                type="text"
+                value=""
+              />
+            </div>
+          </label>
+        </div>
+        <div
+          style="flex: 1;"
+        >
+          <label>
+            <span
+              class="c31 MuiTypography-root MuiTypography-textBasic"
+            >
+              E-book Link
+            </span>
+            <div
+              class="c6 c32 MuiInput-root MuiInputBase-root MuiInputBase-colorPrimary c33"
+            >
+              <input
+                class="c10 MuiInput-input-ulsMd c11 MuiInput-input MuiInputBase-input"
+                placeholder="Paste e-book link here"
+                type="text"
+                value=""
+              />
+            </div>
+          </label>
+        </div>
+      </div>
+      <div
+        class="c4"
+      />
+      <span
+        class="c5 MuiTypography-root MuiTypography-textSmall"
+      >
+        Taxonomy
+      </span>
+      <div
+        class="c4"
+      />
+      <div
+        class="c35 c36 MuiAutocomplete-root MuiAutocomplete-hasClearIcon MuiAutocomplete-hasPopupIcon"
+      >
+        <div
+          class="c37 MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root-hmJIk MuiTextField-root"
+        >
+          <div
+            class="c38 c39 MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-sizeSmall MuiInputBase-adornedEnd MuiAutocomplete-inputRoot"
+          >
+            <input
+              aria-autocomplete="list"
+              aria-expanded="false"
+              aria-invalid="false"
+              autocapitalize="none"
+              autocomplete="off"
+              class="c10 c40 c41 MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputSizeSmall MuiInputBase-inputAdornedEnd MuiAutocomplete-input MuiAutocomplete-inputFocused"
+              id="mui-3"
+              role="combobox"
+              spellcheck="false"
+              type="text"
+              value="taxonomy#1"
+            />
+            <div
+              class="c42 MuiAutocomplete-endAdornment"
+            >
+              <button
+                aria-label="Clear"
+                class="c21 MuiButtonBase-root c43 MuiIconButton-root MuiIconButton-sizeMedium c44 MuiAutocomplete-clearIndicator"
+                tabindex="-1"
+                title="Clear"
+                type="button"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="c27 MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+                  data-testid="CloseIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+                  />
+                </svg>
+              </button>
+              <button
+                aria-label="Open"
+                class="c21 MuiButtonBase-root c43 MuiIconButton-root MuiIconButton-sizeMedium c45 MuiAutocomplete-popupIndicator"
+                tabindex="-1"
+                title="Open"
+                type="button"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="c14 MuiSvgIcon-root MuiSvgIcon-fontSizeMedium"
+                  data-testid="ArrowDropDownIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M7 10l5 5 5-5z"
+                  />
+                </svg>
+              </button>
+            </div>
+            <fieldset
+              aria-hidden="true"
+              class="c16 c17 MuiOutlinedInput-notchedOutline"
+            >
+              <legend
+                class="c18"
+              >
+                <span
+                  class="notranslate"
+                >
+                  ​
+                </span>
+              </legend>
+            </fieldset>
+          </div>
+        </div>
+      </div>
+      <div
+        class="c4"
+      />
+      <span
+        class="c5 MuiTypography-root MuiTypography-textSmall"
+      >
+        Learning Objective collection
+      </span>
+      <div
+        class="c4"
+      />
+      <div
+        class="c35 c36 MuiAutocomplete-root MuiAutocomplete-hasClearIcon MuiAutocomplete-hasPopupIcon"
+      >
+        <div
+          class="c37 MuiFormControl-root MuiFormControl-fullWidth MuiTextField-root-hmJIk MuiTextField-root"
+        >
+          <div
+            class="c38 c39 MuiOutlinedInput-root MuiInputBase-root MuiInputBase-colorPrimary MuiInputBase-fullWidth MuiInputBase-formControl MuiInputBase-sizeSmall MuiInputBase-adornedEnd MuiAutocomplete-inputRoot"
+          >
+            <input
+              aria-autocomplete="list"
+              aria-expanded="false"
+              aria-invalid="false"
+              autocapitalize="none"
+              autocomplete="off"
+              class="c10 c40 c41 MuiOutlinedInput-input MuiInputBase-input MuiInputBase-inputSizeSmall MuiInputBase-inputAdornedEnd MuiAutocomplete-input MuiAutocomplete-inputFocused"
+              id="mui-5"
+              role="combobox"
+              spellcheck="false"
+              type="text"
+              value="mock-framework-name"
+            />
+            <div
+              class="c42 MuiAutocomplete-endAdornment"
+            >
+              <button
+                aria-label="Clear"
+                class="c21 MuiButtonBase-root c43 MuiIconButton-root MuiIconButton-sizeMedium c44 MuiAutocomplete-clearIndicator"
+                tabindex="-1"
+                title="Clear"
+                type="button"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="c27 MuiSvgIcon-root MuiSvgIcon-fontSizeSmall"
+                  data-testid="CloseIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M19 6.41L17.59 5 12 10.59 6.41 5 5 6.41 10.59 12 5 17.59 6.41 19 12 13.41 17.59 19 19 17.59 13.41 12z"
+                  />
+                </svg>
+              </button>
+              <button
+                aria-label="Open"
+                class="c21 MuiButtonBase-root c43 MuiIconButton-root MuiIconButton-sizeMedium c45 MuiAutocomplete-popupIndicator"
+                tabindex="-1"
+                title="Open"
+                type="button"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="c14 MuiSvgIcon-root MuiSvgIcon-fontSizeMedium"
+                  data-testid="ArrowDropDownIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M7 10l5 5 5-5z"
+                  />
+                </svg>
+              </button>
+            </div>
+            <fieldset
+              aria-hidden="true"
+              class="c16 c17 MuiOutlinedInput-notchedOutline"
+            >
+              <legend
+                class="c18"
+              >
+                <span
+                  class="notranslate"
+                >
+                  ​
+                </span>
+              </legend>
+            </fieldset>
+          </div>
+        </div>
+      </div>
+      <div
+        class="c46"
+        size="30"
+      />
+      <div
+        class="c47"
+      >
+        <div
+          style="margin-right: 10px;"
+        >
+          <button
+            class="c21 MuiButton-root MuiButton-outlined MuiButton-outlinedPrimary MuiButton-sizeMedium MuiButton-outlinedSizeMedium MuiButtonBase-root c48"
+            data-testid="cancel-button"
+            tabindex="0"
+            test-id="cancel-button"
+            type="button"
+          >
+            Cancel
+          </button>
+        </div>
+        <div>
+          <button
+            class="c21 MuiButton-root MuiButton-contained MuiButton-containedPrimary MuiButton-sizeMedium MuiButton-containedSizeMedium MuiButtonBase-root c49"
+            data-testid="save-button"
+            tabindex="0"
+            test-id="save-button"
+            type="button"
+          >
+            Create Template
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

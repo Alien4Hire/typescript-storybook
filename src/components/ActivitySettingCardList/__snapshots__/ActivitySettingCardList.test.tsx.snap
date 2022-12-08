@@ -1,0 +1,1444 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ActivitySettingCardList /> renders correctly 1`] = `
+.c14 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  fill: currentColor;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  font-size: 1.5rem;
+}
+
+.c2 {
+  background-color: #ffffff;
+  color: rgba(0,0,0,0.87);
+  -webkit-transition: box-shadow 300ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: box-shadow 300ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  border-radius: 4px;
+  box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 1px 3px 0px rgba(0,0,0,0.12);
+}
+
+.c9 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  position: relative;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  background-color: transparent;
+  outline: 0;
+  border: 0;
+  margin: 0;
+  border-radius: 0;
+  padding: 0;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  vertical-align: middle;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: inherit;
+}
+
+.c9::-moz-focus-inner {
+  border-style: none;
+}
+
+.c9.Mui-disabled {
+  pointer-events: none;
+  cursor: default;
+}
+
+.c17 {
+  margin: 0;
+  color: #080808;
+  font-size: 18px;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 1.167;
+}
+
+.c21 {
+  margin: 0;
+  color: #080808;
+  font-size: 16px;
+  font-family: Source Sans Pro;
+  font-weight: 400;
+  font-style: normal;
+  color: #383838;
+  line-height: 24px;
+}
+
+.c22 {
+  margin: 0;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Source Sans Pro,sans-serif;
+  font-weight: normal;
+  font-size: 1rem;
+  line-height: 1.5;
+  font-weight: 700;
+}
+
+.c23 {
+  margin: 0;
+  color: #080808;
+  font-size: 16px;
+  font-family: Source Sans Pro;
+  font-weight: 600;
+  line-height: 1.235;
+}
+
+.c19 {
+  max-width: 135px;
+}
+
+.c26 {
+  font-size: 14px;
+  text-transform: uppercase;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Oxygen,Ubuntu,Cantarell,"Fira Sans","Droid Sans","Helvetica Neue",Source Sans Pro,sans-serif;
+  font-weight: normal;
+  line-height: 1.75;
+  min-width: 64px;
+  padding: 6px 8px;
+  border-radius: 4px;
+  -webkit-transition: background-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,box-shadow 250ms cubic-bezier(0.4,0,0.2,1) 0ms,border-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,color 250ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: background-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,box-shadow 250ms cubic-bezier(0.4,0,0.2,1) 0ms,border-color 250ms cubic-bezier(0.4,0,0.2,1) 0ms,color 250ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  color: #00758e;
+}
+
+.c26:hover {
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  background-color: rgba(0,117,142,0.04);
+}
+
+.c26.Mui-disabled {
+  color: rgba(0,0,0,0.26);
+}
+
+.c27 {
+  display: inherit;
+  margin-right: 8px;
+  margin-left: -4px;
+}
+
+.c27 > *:nth-of-type(1) {
+  font-size: 20px;
+}
+
+.c3 {
+  overflow: hidden;
+}
+
+.c10 {
+  padding: 9px;
+  border-radius: 50%;
+}
+
+.c12 {
+  cursor: inherit;
+  position: absolute;
+  opacity: 0;
+  width: 100%;
+  height: 100%;
+  top: 0;
+  left: 0;
+  margin: 0;
+  padding: 0;
+  z-index: 1;
+}
+
+.c8 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  cursor: pointer;
+  vertical-align: middle;
+  -webkit-tap-highlight-color: transparent;
+  margin-left: -11px;
+  margin-right: 16px;
+}
+
+.c8.Mui-disabled {
+  cursor: default;
+}
+
+.c8 .MuiFormControlLabel-label.Mui-disabled {
+  color: rgba(0,0,0,0.38);
+}
+
+.c0 {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  width: 100%;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  margin-top: -16px;
+  width: calc(100% + 16px);
+  margin-left: -16px;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+.c0 > .MuiGrid-item {
+  padding-top: 16px;
+}
+
+.c0 > .MuiGrid-item {
+  padding-left: 16px;
+}
+
+.c1 {
+  box-sizing: border-box;
+  margin: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+}
+
+.c5 {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  width: 100%;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  padding: 20px;
+}
+
+.c6 {
+  box-sizing: border-box;
+  margin: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-basis: 41.666667%;
+  -ms-flex-preferred-size: 41.666667%;
+  flex-basis: 41.666667%;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  max-width: 41.666667%;
+}
+
+.c18 {
+  box-sizing: border-box;
+  margin: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-basis: 20.833333%;
+  -ms-flex-preferred-size: 20.833333%;
+  flex-basis: 20.833333%;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  max-width: 20.833333%;
+}
+
+.c24 {
+  box-sizing: border-box;
+  margin: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-basis: 12.5%;
+  -ms-flex-preferred-size: 12.5%;
+  flex-basis: 12.5%;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  max-width: 12.5%;
+}
+
+.c25 {
+  box-sizing: border-box;
+  margin: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-basis: 4.166667%;
+  -ms-flex-preferred-size: 4.166667%;
+  flex-basis: 4.166667%;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  max-width: 4.166667%;
+}
+
+.c13 {
+  position: relative;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+}
+
+.c15 {
+  -webkit-transform: scale(1);
+  -ms-transform: scale(1);
+  transform: scale(1);
+}
+
+.c16 {
+  left: 0;
+  position: absolute;
+  -webkit-transform: scale(0);
+  -ms-transform: scale(0);
+  transform: scale(0);
+  -webkit-transition: -webkit-transform 150ms cubic-bezier(0.4,0,1,1) 0ms;
+  -webkit-transition: transform 150ms cubic-bezier(0.4,0,1,1) 0ms;
+  transition: transform 150ms cubic-bezier(0.4,0,1,1) 0ms;
+}
+
+.c11 {
+  color: rgba(0,0,0,0.6);
+}
+
+.c11:hover {
+  background-color: rgba(0,117,142,0.04);
+}
+
+.c11.Mui-checked {
+  color: #00758e;
+}
+
+.c11.Mui-disabled {
+  color: rgba(0,0,0,0.26);
+}
+
+.c4 {
+  border: 1px solid #c8c8c8;
+  box-shadow: none;
+}
+
+.c7 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+}
+
+.c20 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+}
+
+@media print {
+  .c9 {
+    color-adjust: exact;
+  }
+}
+
+@media (hover:none) {
+  .c26:hover {
+    background-color: transparent;
+  }
+}
+
+@media (min-width:660px) {
+  .c6 {
+    -webkit-flex-basis: 41.666667%;
+    -ms-flex-preferred-size: 41.666667%;
+    flex-basis: 41.666667%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 41.666667%;
+  }
+}
+
+@media (min-width:768px) {
+  .c6 {
+    -webkit-flex-basis: 41.666667%;
+    -ms-flex-preferred-size: 41.666667%;
+    flex-basis: 41.666667%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 41.666667%;
+  }
+}
+
+@media (min-width:992px) {
+  .c6 {
+    -webkit-flex-basis: 41.666667%;
+    -ms-flex-preferred-size: 41.666667%;
+    flex-basis: 41.666667%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 41.666667%;
+  }
+}
+
+@media (min-width:1200px) {
+  .c6 {
+    -webkit-flex-basis: 41.666667%;
+    -ms-flex-preferred-size: 41.666667%;
+    flex-basis: 41.666667%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 41.666667%;
+  }
+}
+
+@media (min-width:660px) {
+  .c18 {
+    -webkit-flex-basis: 20.833333%;
+    -ms-flex-preferred-size: 20.833333%;
+    flex-basis: 20.833333%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 20.833333%;
+  }
+}
+
+@media (min-width:768px) {
+  .c18 {
+    -webkit-flex-basis: 20.833333%;
+    -ms-flex-preferred-size: 20.833333%;
+    flex-basis: 20.833333%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 20.833333%;
+  }
+}
+
+@media (min-width:992px) {
+  .c18 {
+    -webkit-flex-basis: 20.833333%;
+    -ms-flex-preferred-size: 20.833333%;
+    flex-basis: 20.833333%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 20.833333%;
+  }
+}
+
+@media (min-width:1200px) {
+  .c18 {
+    -webkit-flex-basis: 20.833333%;
+    -ms-flex-preferred-size: 20.833333%;
+    flex-basis: 20.833333%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 20.833333%;
+  }
+}
+
+@media (min-width:660px) {
+  .c24 {
+    -webkit-flex-basis: 12.5%;
+    -ms-flex-preferred-size: 12.5%;
+    flex-basis: 12.5%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 12.5%;
+  }
+}
+
+@media (min-width:768px) {
+  .c24 {
+    -webkit-flex-basis: 12.5%;
+    -ms-flex-preferred-size: 12.5%;
+    flex-basis: 12.5%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 12.5%;
+  }
+}
+
+@media (min-width:992px) {
+  .c24 {
+    -webkit-flex-basis: 12.5%;
+    -ms-flex-preferred-size: 12.5%;
+    flex-basis: 12.5%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 12.5%;
+  }
+}
+
+@media (min-width:1200px) {
+  .c24 {
+    -webkit-flex-basis: 12.5%;
+    -ms-flex-preferred-size: 12.5%;
+    flex-basis: 12.5%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 12.5%;
+  }
+}
+
+@media (min-width:660px) {
+  .c25 {
+    -webkit-flex-basis: 4.166667%;
+    -ms-flex-preferred-size: 4.166667%;
+    flex-basis: 4.166667%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 4.166667%;
+  }
+}
+
+@media (min-width:768px) {
+  .c25 {
+    -webkit-flex-basis: 4.166667%;
+    -ms-flex-preferred-size: 4.166667%;
+    flex-basis: 4.166667%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 4.166667%;
+  }
+}
+
+@media (min-width:992px) {
+  .c25 {
+    -webkit-flex-basis: 4.166667%;
+    -ms-flex-preferred-size: 4.166667%;
+    flex-basis: 4.166667%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 4.166667%;
+  }
+}
+
+@media (min-width:1200px) {
+  .c25 {
+    -webkit-flex-basis: 4.166667%;
+    -ms-flex-preferred-size: 4.166667%;
+    flex-basis: 4.166667%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 4.166667%;
+  }
+}
+
+@media (hover:none) {
+  .c11:hover {
+    background-color: transparent;
+  }
+}
+
+<div
+  className="c0 MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+>
+  <div
+    className="c1 MuiGrid-root MuiGrid-item"
+  >
+    <div
+      className="c2 MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 c3 MuiCard-root c4"
+    >
+      <div
+        className="c5 MuiGrid-root MuiGrid-container"
+      >
+        <div
+          className="c6 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5"
+        >
+          <div
+            className="c7 MuiBox-root"
+          >
+            <label
+              className="c8 MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd"
+            >
+              <span
+                className="c9 MuiRadio-root MuiRadio-colorPrimary MuiButtonBase-root c10 MuiRadio-root MuiRadio-colorPrimary PrivateSwitchBase-root c11"
+                onBlur={[Function]}
+                onContextMenu={[Function]}
+                onDragLeave={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                tabIndex={null}
+              >
+                <input
+                  checked={false}
+                  className="c12 PrivateSwitchBase-input"
+                  data-testid="RadioButton"
+                  onChange={[Function]}
+                  type="radio"
+                  value="0"
+                />
+                <span
+                  className="c13"
+                >
+                  <svg
+                    aria-hidden={true}
+                    className="c14 MuiSvgIcon-root MuiSvgIcon-fontSizeMedium c15"
+                    data-testid="RadioButtonUncheckedIcon"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                    />
+                  </svg>
+                  <svg
+                    aria-hidden={true}
+                    className="c14 MuiSvgIcon-root MuiSvgIcon-fontSizeMedium c16"
+                    data-testid="RadioButtonCheckedIcon"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+                    />
+                  </svg>
+                </span>
+              </span>
+              <h3
+                className="c17 MuiTypography-root MuiTypography-h3"
+              >
+                Example activity settings rule #1
+              </h3>
+            </label>
+          </div>
+        </div>
+        <div
+          className="c18 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2.5"
+        >
+          <div
+            className="c19 c20 MuiBox-root"
+          >
+            <span
+              className="c21 MuiTypography-root MuiTypography-textBasic"
+            >
+              Grading Policy:
+            </span>
+            <p
+              className="c22 MuiTypography-root MuiTypography-body1"
+            >
+              Test/Quiz
+            </p>
+          </div>
+        </div>
+        <div
+          className="c18 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2.5"
+        >
+          <div
+            className="c20 MuiBox-root"
+          >
+            <span
+              className="c21 MuiTypography-root MuiTypography-textBasic"
+            >
+              Recommend Use:
+            </span>
+            <h4
+              className="c23 MuiTypography-root MuiTypography-h4"
+            >
+              Post-Class
+            </h4>
+          </div>
+        </div>
+        <div
+          className="c24 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-1.5"
+        >
+          <div
+            className="c20 MuiBox-root"
+          >
+            <span
+              className="c21 MuiTypography-root MuiTypography-textBasic"
+            >
+              Visibility:
+            </span>
+            <h4
+              className="c23 MuiTypography-root MuiTypography-h4"
+            >
+              Available
+            </h4>
+          </div>
+        </div>
+        <div
+          className="c25 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-0.5"
+        >
+          <button
+            className="c9 MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root c26"
+            data-testid="IconButton"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onContextMenu={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <span
+              className="c27 MuiButton-startIcon MuiButton-iconSizeMedium"
+            >
+              <svg>
+                altTrash.svg
+              </svg>
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="c1 MuiGrid-root MuiGrid-item"
+  >
+    <div
+      className="c2 MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 c3 MuiCard-root c4"
+    >
+      <div
+        className="c5 MuiGrid-root MuiGrid-container"
+      >
+        <div
+          className="c6 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5"
+        >
+          <div
+            className="c7 MuiBox-root"
+          >
+            <label
+              className="c8 MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd"
+            >
+              <span
+                className="c9 MuiRadio-root MuiRadio-colorPrimary MuiButtonBase-root c10 MuiRadio-root MuiRadio-colorPrimary PrivateSwitchBase-root c11"
+                onBlur={[Function]}
+                onContextMenu={[Function]}
+                onDragLeave={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                tabIndex={null}
+              >
+                <input
+                  checked={false}
+                  className="c12 PrivateSwitchBase-input"
+                  data-testid="RadioButton"
+                  onChange={[Function]}
+                  type="radio"
+                  value="1"
+                />
+                <span
+                  className="c13"
+                >
+                  <svg
+                    aria-hidden={true}
+                    className="c14 MuiSvgIcon-root MuiSvgIcon-fontSizeMedium c15"
+                    data-testid="RadioButtonUncheckedIcon"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                    />
+                  </svg>
+                  <svg
+                    aria-hidden={true}
+                    className="c14 MuiSvgIcon-root MuiSvgIcon-fontSizeMedium c16"
+                    data-testid="RadioButtonCheckedIcon"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+                    />
+                  </svg>
+                </span>
+              </span>
+              <h3
+                className="c17 MuiTypography-root MuiTypography-h3"
+              >
+                Example activity settings rule #2
+              </h3>
+            </label>
+          </div>
+        </div>
+        <div
+          className="c18 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2.5"
+        >
+          <div
+            className="c19 c20 MuiBox-root"
+          >
+            <span
+              className="c21 MuiTypography-root MuiTypography-textBasic"
+            >
+              Grading Policy:
+            </span>
+            <p
+              className="c22 MuiTypography-root MuiTypography-body1"
+            >
+              Test/Quiz
+            </p>
+          </div>
+        </div>
+        <div
+          className="c18 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2.5"
+        >
+          <div
+            className="c20 MuiBox-root"
+          >
+            <span
+              className="c21 MuiTypography-root MuiTypography-textBasic"
+            >
+              Recommend Use:
+            </span>
+            <h4
+              className="c23 MuiTypography-root MuiTypography-h4"
+            >
+              Post-Class
+            </h4>
+          </div>
+        </div>
+        <div
+          className="c24 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-1.5"
+        >
+          <div
+            className="c20 MuiBox-root"
+          >
+            <span
+              className="c21 MuiTypography-root MuiTypography-textBasic"
+            >
+              Visibility:
+            </span>
+            <h4
+              className="c23 MuiTypography-root MuiTypography-h4"
+            >
+              Available
+            </h4>
+          </div>
+        </div>
+        <div
+          className="c25 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-0.5"
+        >
+          <button
+            className="c9 MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root c26"
+            data-testid="IconButton"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onContextMenu={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <span
+              className="c27 MuiButton-startIcon MuiButton-iconSizeMedium"
+            >
+              <svg>
+                altTrash.svg
+              </svg>
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="c1 MuiGrid-root MuiGrid-item"
+  >
+    <div
+      className="c2 MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 c3 MuiCard-root c4"
+    >
+      <div
+        className="c5 MuiGrid-root MuiGrid-container"
+      >
+        <div
+          className="c6 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5"
+        >
+          <div
+            className="c7 MuiBox-root"
+          >
+            <label
+              className="c8 MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd"
+            >
+              <span
+                className="c9 MuiRadio-root MuiRadio-colorPrimary MuiButtonBase-root c10 MuiRadio-root MuiRadio-colorPrimary PrivateSwitchBase-root c11"
+                onBlur={[Function]}
+                onContextMenu={[Function]}
+                onDragLeave={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                tabIndex={null}
+              >
+                <input
+                  checked={false}
+                  className="c12 PrivateSwitchBase-input"
+                  data-testid="RadioButton"
+                  onChange={[Function]}
+                  type="radio"
+                  value="2"
+                />
+                <span
+                  className="c13"
+                >
+                  <svg
+                    aria-hidden={true}
+                    className="c14 MuiSvgIcon-root MuiSvgIcon-fontSizeMedium c15"
+                    data-testid="RadioButtonUncheckedIcon"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                    />
+                  </svg>
+                  <svg
+                    aria-hidden={true}
+                    className="c14 MuiSvgIcon-root MuiSvgIcon-fontSizeMedium c16"
+                    data-testid="RadioButtonCheckedIcon"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+                    />
+                  </svg>
+                </span>
+              </span>
+              <h3
+                className="c17 MuiTypography-root MuiTypography-h3"
+              >
+                Example activity settings rule #3
+              </h3>
+            </label>
+          </div>
+        </div>
+        <div
+          className="c18 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2.5"
+        >
+          <div
+            className="c19 c20 MuiBox-root"
+          >
+            <span
+              className="c21 MuiTypography-root MuiTypography-textBasic"
+            >
+              Grading Policy:
+            </span>
+            <p
+              className="c22 MuiTypography-root MuiTypography-body1"
+            >
+              Test/Quiz
+            </p>
+          </div>
+        </div>
+        <div
+          className="c18 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2.5"
+        >
+          <div
+            className="c20 MuiBox-root"
+          >
+            <span
+              className="c21 MuiTypography-root MuiTypography-textBasic"
+            >
+              Recommend Use:
+            </span>
+            <h4
+              className="c23 MuiTypography-root MuiTypography-h4"
+            >
+              Post-Class
+            </h4>
+          </div>
+        </div>
+        <div
+          className="c24 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-1.5"
+        >
+          <div
+            className="c20 MuiBox-root"
+          >
+            <span
+              className="c21 MuiTypography-root MuiTypography-textBasic"
+            >
+              Visibility:
+            </span>
+            <h4
+              className="c23 MuiTypography-root MuiTypography-h4"
+            >
+              Available
+            </h4>
+          </div>
+        </div>
+        <div
+          className="c25 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-0.5"
+        >
+          <button
+            className="c9 MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root c26"
+            data-testid="IconButton"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onContextMenu={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <span
+              className="c27 MuiButton-startIcon MuiButton-iconSizeMedium"
+            >
+              <svg>
+                altTrash.svg
+              </svg>
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="c1 MuiGrid-root MuiGrid-item"
+  >
+    <div
+      className="c2 MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 c3 MuiCard-root c4"
+    >
+      <div
+        className="c5 MuiGrid-root MuiGrid-container"
+      >
+        <div
+          className="c6 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5"
+        >
+          <div
+            className="c7 MuiBox-root"
+          >
+            <label
+              className="c8 MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd"
+            >
+              <span
+                className="c9 MuiRadio-root MuiRadio-colorPrimary MuiButtonBase-root c10 MuiRadio-root MuiRadio-colorPrimary PrivateSwitchBase-root c11"
+                onBlur={[Function]}
+                onContextMenu={[Function]}
+                onDragLeave={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                tabIndex={null}
+              >
+                <input
+                  checked={false}
+                  className="c12 PrivateSwitchBase-input"
+                  data-testid="RadioButton"
+                  onChange={[Function]}
+                  type="radio"
+                  value="3"
+                />
+                <span
+                  className="c13"
+                >
+                  <svg
+                    aria-hidden={true}
+                    className="c14 MuiSvgIcon-root MuiSvgIcon-fontSizeMedium c15"
+                    data-testid="RadioButtonUncheckedIcon"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                    />
+                  </svg>
+                  <svg
+                    aria-hidden={true}
+                    className="c14 MuiSvgIcon-root MuiSvgIcon-fontSizeMedium c16"
+                    data-testid="RadioButtonCheckedIcon"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+                    />
+                  </svg>
+                </span>
+              </span>
+              <h3
+                className="c17 MuiTypography-root MuiTypography-h3"
+              >
+                Example activity settings rule #4
+              </h3>
+            </label>
+          </div>
+        </div>
+        <div
+          className="c18 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2.5"
+        >
+          <div
+            className="c19 c20 MuiBox-root"
+          >
+            <span
+              className="c21 MuiTypography-root MuiTypography-textBasic"
+            >
+              Grading Policy:
+            </span>
+            <p
+              className="c22 MuiTypography-root MuiTypography-body1"
+            >
+              Test/Quiz
+            </p>
+          </div>
+        </div>
+        <div
+          className="c18 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2.5"
+        >
+          <div
+            className="c20 MuiBox-root"
+          >
+            <span
+              className="c21 MuiTypography-root MuiTypography-textBasic"
+            >
+              Recommend Use:
+            </span>
+            <h4
+              className="c23 MuiTypography-root MuiTypography-h4"
+            >
+              Post-Class
+            </h4>
+          </div>
+        </div>
+        <div
+          className="c24 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-1.5"
+        >
+          <div
+            className="c20 MuiBox-root"
+          >
+            <span
+              className="c21 MuiTypography-root MuiTypography-textBasic"
+            >
+              Visibility:
+            </span>
+            <h4
+              className="c23 MuiTypography-root MuiTypography-h4"
+            >
+              Available
+            </h4>
+          </div>
+        </div>
+        <div
+          className="c25 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-0.5"
+        >
+          <button
+            className="c9 MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root c26"
+            data-testid="IconButton"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onContextMenu={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <span
+              className="c27 MuiButton-startIcon MuiButton-iconSizeMedium"
+            >
+              <svg>
+                altTrash.svg
+              </svg>
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div
+    className="c1 MuiGrid-root MuiGrid-item"
+  >
+    <div
+      className="c2 MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1 c3 MuiCard-root c4"
+    >
+      <div
+        className="c5 MuiGrid-root MuiGrid-container"
+      >
+        <div
+          className="c6 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-5"
+        >
+          <div
+            className="c7 MuiBox-root"
+          >
+            <label
+              className="c8 MuiFormControlLabel-root MuiFormControlLabel-labelPlacementEnd"
+            >
+              <span
+                className="c9 MuiRadio-root MuiRadio-colorPrimary MuiButtonBase-root c10 MuiRadio-root MuiRadio-colorPrimary PrivateSwitchBase-root c11"
+                onBlur={[Function]}
+                onContextMenu={[Function]}
+                onDragLeave={[Function]}
+                onFocus={[Function]}
+                onKeyDown={[Function]}
+                onKeyUp={[Function]}
+                onMouseDown={[Function]}
+                onMouseLeave={[Function]}
+                onMouseUp={[Function]}
+                onTouchEnd={[Function]}
+                onTouchMove={[Function]}
+                onTouchStart={[Function]}
+                tabIndex={null}
+              >
+                <input
+                  checked={false}
+                  className="c12 PrivateSwitchBase-input"
+                  data-testid="RadioButton"
+                  onChange={[Function]}
+                  type="radio"
+                  value="4"
+                />
+                <span
+                  className="c13"
+                >
+                  <svg
+                    aria-hidden={true}
+                    className="c14 MuiSvgIcon-root MuiSvgIcon-fontSizeMedium c15"
+                    data-testid="RadioButtonUncheckedIcon"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm0 18c-4.42 0-8-3.58-8-8s3.58-8 8-8 8 3.58 8 8-3.58 8-8 8z"
+                    />
+                  </svg>
+                  <svg
+                    aria-hidden={true}
+                    className="c14 MuiSvgIcon-root MuiSvgIcon-fontSizeMedium c16"
+                    data-testid="RadioButtonCheckedIcon"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M8.465 8.465C9.37 7.56 10.62 7 12 7C14.76 7 17 9.24 17 12C17 13.38 16.44 14.63 15.535 15.535C14.63 16.44 13.38 17 12 17C9.24 17 7 14.76 7 12C7 10.62 7.56 9.37 8.465 8.465Z"
+                    />
+                  </svg>
+                </span>
+              </span>
+              <h3
+                className="c17 MuiTypography-root MuiTypography-h3"
+              >
+                Example activity settings rule #5
+              </h3>
+            </label>
+          </div>
+        </div>
+        <div
+          className="c18 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2.5"
+        >
+          <div
+            className="c19 c20 MuiBox-root"
+          >
+            <span
+              className="c21 MuiTypography-root MuiTypography-textBasic"
+            >
+              Grading Policy:
+            </span>
+            <p
+              className="c22 MuiTypography-root MuiTypography-body1"
+            >
+              Test/Quiz
+            </p>
+          </div>
+        </div>
+        <div
+          className="c18 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-2.5"
+        >
+          <div
+            className="c20 MuiBox-root"
+          >
+            <span
+              className="c21 MuiTypography-root MuiTypography-textBasic"
+            >
+              Recommend Use:
+            </span>
+            <h4
+              className="c23 MuiTypography-root MuiTypography-h4"
+            >
+              Post-Class
+            </h4>
+          </div>
+        </div>
+        <div
+          className="c24 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-1.5"
+        >
+          <div
+            className="c20 MuiBox-root"
+          >
+            <span
+              className="c21 MuiTypography-root MuiTypography-textBasic"
+            >
+              Visibility:
+            </span>
+            <h4
+              className="c23 MuiTypography-root MuiTypography-h4"
+            >
+              Available
+            </h4>
+          </div>
+        </div>
+        <div
+          className="c25 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-0.5"
+        >
+          <button
+            className="c9 MuiButton-root MuiButton-text MuiButton-textPrimary MuiButton-sizeMedium MuiButton-textSizeMedium MuiButtonBase-root c26"
+            data-testid="IconButton"
+            disabled={false}
+            onBlur={[Function]}
+            onClick={[Function]}
+            onContextMenu={[Function]}
+            onDragLeave={[Function]}
+            onFocus={[Function]}
+            onKeyDown={[Function]}
+            onKeyUp={[Function]}
+            onMouseDown={[Function]}
+            onMouseLeave={[Function]}
+            onMouseUp={[Function]}
+            onTouchEnd={[Function]}
+            onTouchMove={[Function]}
+            onTouchStart={[Function]}
+            tabIndex={0}
+            type="button"
+          >
+            <span
+              className="c27 MuiButton-startIcon MuiButton-iconSizeMedium"
+            >
+              <svg>
+                altTrash.svg
+              </svg>
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+`;

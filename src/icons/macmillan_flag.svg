@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="251px" height="250px" viewBox="0 0 251 250" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 50.2 (55047) - http://www.bohemiancoding.com/sketch -->
+    <title>achieve-logo-icon</title>
+    <desc>Created with Sketch.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="achieve-logo-icon" fill-rule="nonzero">
+            <polygon id="Shape" fill="#D52234" points="0.5 0 250.5 0 250.5 250 0.5 250"></polygon>
+            <g id="Group" transform="translate(47.000000, 56.000000)" fill="#FFFFFF">
+                <path d="M156.7,95.4 C156.7,56 128.5,52.2 107.2,69.7 C93.6,80.8 76.1,101 76.1,81.8 C76.1,36.2 30.6,56.4 0.5,95.5 L0.5,137.7 C30.6,98.7 76.1,78.6 76.1,124.1 C76.1,143.3 93.5,123.1 107.2,112 C126.6,96.1 151.6,97.8 156.1,127.7 L156.8,127.7 L156.8,95.4 L156.7,95.4 Z" id="Shape"></path>
+                <path d="M156.7,40.1 C156.7,0.7 128.5,-3.1 107.2,14.4 C93.6,25.5 76.1,45.8 76.1,26.5 C76.1,-19.1 30.6,1.1 0.5,40.1 L0.5,80.2 C31.2,43.5 76.1,23.2 76.1,68.8 C76.1,88 93.5,67.8 107.2,56.7 C126.6,40.8 151.6,42.5 156.1,72.4 L156.8,72.4 L156.8,40.1 L156.7,40.1 Z" id="Shape"></path>
+            </g>
+        </g>
+    </g>
+</svg>

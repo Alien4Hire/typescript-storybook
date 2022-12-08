@@ -1,0 +1,1559 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<TemplateActions /> renders correctly 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": .c2 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  fill: currentColor;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  font-size: 1.5rem;
+  color: #1976d2;
+}
+
+.c3 {
+  overflow: hidden;
+  pointer-events: none;
+  position: absolute;
+  z-index: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: inherit;
+}
+
+.c0 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  position: relative;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  background-color: transparent;
+  outline: 0;
+  border: 0;
+  margin: 0;
+  border-radius: 0;
+  padding: 0;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  vertical-align: middle;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: inherit;
+}
+
+.c0::-moz-focus-inner {
+  border-style: none;
+}
+
+.c0.Mui-disabled {
+  pointer-events: none;
+  cursor: default;
+}
+
+.c1 {
+  text-align: center;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  font-size: 1.5rem;
+  padding: 8px;
+  border-radius: 50%;
+  overflow: visible;
+  color: rgba(0,0,0,0.54);
+  -webkit-transition: background-color 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: background-color 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  color: #1976d2;
+}
+
+.c1:hover {
+  background-color: rgba(0,0,0,0.04);
+}
+
+.c1:hover {
+  background-color: rgba(25,118,210,0.04);
+}
+
+.c1.Mui-disabled {
+  background-color: transparent;
+  color: rgba(0,0,0,0.26);
+}
+
+@media print {
+  .c0 {
+    color-adjust: exact;
+  }
+}
+
+@media (hover:none) {
+  .c1:hover {
+    background-color: transparent;
+  }
+}
+
+@media (hover:none) {
+  .c1:hover {
+    background-color: transparent;
+  }
+}
+
+<body>
+    <div>
+      <span
+        aria-label="upload picture"
+        class="c0 MuiButtonBase-root c1 MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-sizeMedium"
+        data-testid="contextMenu"
+        role="button"
+        style="margin: 0px 15px 0px auto;"
+        tabindex="0"
+      >
+        <svg
+          aria-hidden="true"
+          class="c2 MuiSvgIcon-root MuiSvgIcon-colorPrimary MuiSvgIcon-fontSizeMedium"
+          data-testid="MoreVertIcon"
+          focusable="false"
+          viewBox="0 0 24 24"
+        >
+          <path
+            d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"
+          />
+        </svg>
+        <span
+          class="c3 MuiTouchRipple-root"
+        />
+      </span>
+    </div>
+  </body>,
+  "container": .c2 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  fill: currentColor;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  font-size: 1.5rem;
+  color: #1976d2;
+}
+
+.c3 {
+  overflow: hidden;
+  pointer-events: none;
+  position: absolute;
+  z-index: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: inherit;
+}
+
+.c0 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  position: relative;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  background-color: transparent;
+  outline: 0;
+  border: 0;
+  margin: 0;
+  border-radius: 0;
+  padding: 0;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  vertical-align: middle;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: inherit;
+}
+
+.c0::-moz-focus-inner {
+  border-style: none;
+}
+
+.c0.Mui-disabled {
+  pointer-events: none;
+  cursor: default;
+}
+
+.c1 {
+  text-align: center;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  font-size: 1.5rem;
+  padding: 8px;
+  border-radius: 50%;
+  overflow: visible;
+  color: rgba(0,0,0,0.54);
+  -webkit-transition: background-color 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: background-color 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  color: #1976d2;
+}
+
+.c1:hover {
+  background-color: rgba(0,0,0,0.04);
+}
+
+.c1:hover {
+  background-color: rgba(25,118,210,0.04);
+}
+
+.c1.Mui-disabled {
+  background-color: transparent;
+  color: rgba(0,0,0,0.26);
+}
+
+@media print {
+  .c0 {
+    color-adjust: exact;
+  }
+}
+
+@media (hover:none) {
+  .c1:hover {
+    background-color: transparent;
+  }
+}
+
+@media (hover:none) {
+  .c1:hover {
+    background-color: transparent;
+  }
+}
+
+<div>
+    <span
+      aria-label="upload picture"
+      class="c0 MuiButtonBase-root c1 MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-sizeMedium"
+      data-testid="contextMenu"
+      role="button"
+      style="margin: 0px 15px 0px auto;"
+      tabindex="0"
+    >
+      <svg
+        aria-hidden="true"
+        class="c2 MuiSvgIcon-root MuiSvgIcon-colorPrimary MuiSvgIcon-fontSizeMedium"
+        data-testid="MoreVertIcon"
+        focusable="false"
+        viewBox="0 0 24 24"
+      >
+        <path
+          d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"
+        />
+      </svg>
+      <span
+        class="c3 MuiTouchRipple-root"
+      />
+    </span>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;
+
+exports[`<TemplateListItem /> renders correctly 1`] = `
+Object {
+  "asFragment": [Function],
+  "baseElement": .c18 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  fill: currentColor;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  font-size: 1.5rem;
+  color: #1976d2;
+}
+
+.c0 {
+  background-color: #fff;
+  color: rgba(0,0,0,0.87);
+  -webkit-transition: box-shadow 300ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: box-shadow 300ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  border-radius: 4px;
+  box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 1px 3px 0px rgba(0,0,0,0.12);
+  padding: 16px;
+  position: relative;
+  margin-bottom: 5px;
+}
+
+.c19 {
+  overflow: hidden;
+  pointer-events: none;
+  position: absolute;
+  z-index: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: inherit;
+}
+
+.c16 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  position: relative;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  background-color: transparent;
+  outline: 0;
+  border: 0;
+  margin: 0;
+  border-radius: 0;
+  padding: 0;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  vertical-align: middle;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: inherit;
+}
+
+.c16::-moz-focus-inner {
+  border-style: none;
+}
+
+.c16.Mui-disabled {
+  pointer-events: none;
+  cursor: default;
+}
+
+.c17 {
+  text-align: center;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  font-size: 1.5rem;
+  padding: 8px;
+  border-radius: 50%;
+  overflow: visible;
+  color: rgba(0,0,0,0.54);
+  -webkit-transition: background-color 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: background-color 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  color: #1976d2;
+}
+
+.c17:hover {
+  background-color: rgba(0,0,0,0.04);
+}
+
+.c17:hover {
+  background-color: rgba(25,118,210,0.04);
+}
+
+.c17.Mui-disabled {
+  background-color: transparent;
+  color: rgba(0,0,0,0.26);
+}
+
+.c6 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 300;
+  font-size: 3.75rem;
+  line-height: 1.2;
+  -webkit-letter-spacing: -0.00833em;
+  -moz-letter-spacing: -0.00833em;
+  -ms-letter-spacing: -0.00833em;
+  letter-spacing: -0.00833em;
+  color: #00758e;
+}
+
+.c1 {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  width: 100%;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  margin-top: -16px;
+  width: calc(100% + 16px);
+  margin-left: -16px;
+}
+
+.c1 > .MuiGrid-item {
+  padding-top: 16px;
+}
+
+.c1 > .MuiGrid-item {
+  padding-left: 16px;
+}
+
+.c2 {
+  box-sizing: border-box;
+  margin: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-basis: 66.666667%;
+  -ms-flex-preferred-size: 66.666667%;
+  flex-basis: 66.666667%;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  max-width: 66.666667%;
+}
+
+.c4 {
+  box-sizing: border-box;
+  margin: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-basis: 33.333333%;
+  -ms-flex-preferred-size: 33.333333%;
+  flex-basis: 33.333333%;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  max-width: 33.333333%;
+}
+
+.c7 {
+  display: table;
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-top: 8px;
+}
+
+.c7 caption {
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 400;
+  font-size: 0.875rem;
+  line-height: 1.43;
+  -webkit-letter-spacing: 0.01071em;
+  -moz-letter-spacing: 0.01071em;
+  -ms-letter-spacing: 0.01071em;
+  letter-spacing: 0.01071em;
+  padding: 16px;
+  color: rgba(0,0,0,0.6);
+  text-align: left;
+  caption-side: bottom;
+}
+
+.c12 {
+  display: table-row-group;
+}
+
+.c10 {
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 500;
+  font-size: 0.875rem;
+  line-height: 1.5rem;
+  -webkit-letter-spacing: 0.01071em;
+  -moz-letter-spacing: 0.01071em;
+  -ms-letter-spacing: 0.01071em;
+  letter-spacing: 0.01071em;
+  display: table-cell;
+  vertical-align: inherit;
+  border-bottom: 1px solid rgba(224,224,224,1);
+  text-align: left;
+  padding: 16px;
+  color: rgba(0,0,0,0.87);
+}
+
+.c14 {
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 400;
+  font-size: 0.875rem;
+  line-height: 1.43;
+  -webkit-letter-spacing: 0.01071em;
+  -moz-letter-spacing: 0.01071em;
+  -ms-letter-spacing: 0.01071em;
+  letter-spacing: 0.01071em;
+  display: table-cell;
+  vertical-align: inherit;
+  border-bottom: 1px solid rgba(224,224,224,1);
+  text-align: left;
+  padding: 16px;
+  color: rgba(0,0,0,0.87);
+}
+
+.c8 {
+  display: table-header-group;
+}
+
+.c9 {
+  color: inherit;
+  display: table-row;
+  vertical-align: middle;
+  outline: 0;
+}
+
+.c9.MuiTableRow-hover:hover {
+  background-color: rgba(0,0,0,0.04);
+}
+
+.c9.Mui-selected {
+  background-color: rgba(25,118,210,0.08);
+}
+
+.c9.Mui-selected:hover {
+  background-color: rgba(25,118,210,0.12);
+}
+
+.c11.MuiTableCell-head {
+  font-size: 13px;
+  font-weight: bold;
+  padding: 4px;
+  color: #686868;
+}
+
+.c11.MuiTableCell-body {
+  font-size: 13px;
+  font-weight: normal;
+  padding: 4px;
+  color: #686868;
+}
+
+.c13:last-child td,
+.c13:last-child th {
+  border: 0;
+}
+
+.c15 {
+  color: #1976d2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c3 {
+  background-color: #fff;
+  color: #686868;
+}
+
+.c5 {
+  background-color: #fff;
+  padding: 8px;
+  text-align: end;
+  color: #00758e;
+  font-weight: 600;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+@media print {
+  .c16 {
+    color-adjust: exact;
+  }
+}
+
+@media (hover:none) {
+  .c17:hover {
+    background-color: transparent;
+  }
+}
+
+@media (hover:none) {
+  .c17:hover {
+    background-color: transparent;
+  }
+}
+
+@media (min-width:600px) {
+  .c2 {
+    -webkit-flex-basis: 66.666667%;
+    -ms-flex-preferred-size: 66.666667%;
+    flex-basis: 66.666667%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 66.666667%;
+  }
+}
+
+@media (min-width:900px) {
+  .c2 {
+    -webkit-flex-basis: 66.666667%;
+    -ms-flex-preferred-size: 66.666667%;
+    flex-basis: 66.666667%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 66.666667%;
+  }
+}
+
+@media (min-width:1200px) {
+  .c2 {
+    -webkit-flex-basis: 66.666667%;
+    -ms-flex-preferred-size: 66.666667%;
+    flex-basis: 66.666667%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 66.666667%;
+  }
+}
+
+@media (min-width:1536px) {
+  .c2 {
+    -webkit-flex-basis: 66.666667%;
+    -ms-flex-preferred-size: 66.666667%;
+    flex-basis: 66.666667%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 66.666667%;
+  }
+}
+
+@media (min-width:600px) {
+  .c4 {
+    -webkit-flex-basis: 33.333333%;
+    -ms-flex-preferred-size: 33.333333%;
+    flex-basis: 33.333333%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 33.333333%;
+  }
+}
+
+@media (min-width:900px) {
+  .c4 {
+    -webkit-flex-basis: 33.333333%;
+    -ms-flex-preferred-size: 33.333333%;
+    flex-basis: 33.333333%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 33.333333%;
+  }
+}
+
+@media (min-width:1200px) {
+  .c4 {
+    -webkit-flex-basis: 33.333333%;
+    -ms-flex-preferred-size: 33.333333%;
+    flex-basis: 33.333333%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 33.333333%;
+  }
+}
+
+@media (min-width:1536px) {
+  .c4 {
+    -webkit-flex-basis: 33.333333%;
+    -ms-flex-preferred-size: 33.333333%;
+    flex-basis: 33.333333%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 33.333333%;
+  }
+}
+
+<body>
+    <div>
+      <div
+        class="c0 MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1"
+      >
+        <div
+          class="c1 MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+        >
+          <div
+            class="c2 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+          >
+            <div
+              class="c3"
+            >
+              Author | PRODUCT MODEL
+            </div>
+          </div>
+          <div
+            class="c4 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+          >
+            <div
+              class="c5"
+            >
+              Release Management
+            </div>
+          </div>
+        </div>
+        <h2
+          class="c6 MuiTypography-root MuiTypography-h2"
+        >
+          Orlando Castillo
+        </h2>
+        <table
+          class="c7 MuiTable-root"
+        >
+          <thead
+            class="c8 MuiTableHead-root"
+          >
+            <tr
+              class="c9 MuiTableRow-root MuiTableRow-head"
+            >
+              <th
+                class="c10 MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium c11"
+                scope="col"
+              >
+                Version
+              </th>
+              <th
+                class="c10 MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium c11"
+                scope="col"
+              >
+                Created By
+              </th>
+              <th
+                class="c10 MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium c11"
+                scope="col"
+              >
+                Last Updated At
+              </th>
+              <th
+                class="c10 MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium c11"
+                scope="col"
+              >
+                Source
+              </th>
+              <th
+                class="c10 MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium c11"
+                scope="col"
+              >
+                Template ID
+              </th>
+              <th
+                class="c10 MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium c11"
+                scope="col"
+              />
+            </tr>
+          </thead>
+          <tbody
+            class="c12 MuiTableBody-root"
+          >
+            <tr
+              class="c9 MuiTableRow-root c13"
+            >
+              <td
+                class="c14 MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium c11"
+              >
+                <a
+                  class="c15"
+                  href="/templates/fea2d98d-3d90-4a4a-a385-8f3f66f29bab/search/b5a6cb07-c9b0-490e-a9c6-2d849477f164"
+                >
+                  Version 
+                  1
+                </a>
+              </td>
+              <td
+                class="c14 MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium c11"
+              >
+                Orlando Castillo
+              </td>
+              <td
+                class="c14 MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium c11"
+              >
+                Wed, May 25, 9:52 PM
+              </td>
+              <td
+                class="c14 MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium c11"
+              />
+              <td
+                class="c14 MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium c11"
+              >
+                cIMBVC1l
+              </td>
+              <td
+                class="c14 MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium c11"
+              >
+                <span
+                  aria-label="upload picture"
+                  class="c16 MuiButtonBase-root c17 MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-sizeMedium"
+                  data-testid="contextMenu"
+                  role="button"
+                  style="margin: 0px 15px 0px auto;"
+                  tabindex="0"
+                >
+                  <svg
+                    aria-hidden="true"
+                    class="c18 MuiSvgIcon-root MuiSvgIcon-colorPrimary MuiSvgIcon-fontSizeMedium"
+                    data-testid="MoreVertIcon"
+                    focusable="false"
+                    viewBox="0 0 24 24"
+                  >
+                    <path
+                      d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"
+                    />
+                  </svg>
+                  <span
+                    class="c19 MuiTouchRipple-root"
+                  />
+                </span>
+              </td>
+            </tr>
+          </tbody>
+        </table>
+      </div>
+    </div>
+  </body>,
+  "container": .c18 {
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  width: 1em;
+  height: 1em;
+  display: inline-block;
+  fill: currentColor;
+  -webkit-flex-shrink: 0;
+  -ms-flex-negative: 0;
+  flex-shrink: 0;
+  -webkit-transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: fill 200ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  font-size: 1.5rem;
+  color: #1976d2;
+}
+
+.c0 {
+  background-color: #fff;
+  color: rgba(0,0,0,0.87);
+  -webkit-transition: box-shadow 300ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: box-shadow 300ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  border-radius: 4px;
+  box-shadow: 0px 2px 1px -1px rgba(0,0,0,0.2),0px 1px 1px 0px rgba(0,0,0,0.14),0px 1px 3px 0px rgba(0,0,0,0.12);
+  padding: 16px;
+  position: relative;
+  margin-bottom: 5px;
+}
+
+.c19 {
+  overflow: hidden;
+  pointer-events: none;
+  position: absolute;
+  z-index: 0;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: inherit;
+}
+
+.c16 {
+  display: -webkit-inline-box;
+  display: -webkit-inline-flex;
+  display: -ms-inline-flexbox;
+  display: inline-flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  position: relative;
+  box-sizing: border-box;
+  -webkit-tap-highlight-color: transparent;
+  background-color: transparent;
+  outline: 0;
+  border: 0;
+  margin: 0;
+  border-radius: 0;
+  padding: 0;
+  cursor: pointer;
+  -webkit-user-select: none;
+  -moz-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+  vertical-align: middle;
+  -moz-appearance: none;
+  -webkit-appearance: none;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+  color: inherit;
+}
+
+.c16::-moz-focus-inner {
+  border-style: none;
+}
+
+.c16.Mui-disabled {
+  pointer-events: none;
+  cursor: default;
+}
+
+.c17 {
+  text-align: center;
+  -webkit-flex: 0 0 auto;
+  -ms-flex: 0 0 auto;
+  flex: 0 0 auto;
+  font-size: 1.5rem;
+  padding: 8px;
+  border-radius: 50%;
+  overflow: visible;
+  color: rgba(0,0,0,0.54);
+  -webkit-transition: background-color 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  transition: background-color 150ms cubic-bezier(0.4,0,0.2,1) 0ms;
+  color: #1976d2;
+}
+
+.c17:hover {
+  background-color: rgba(0,0,0,0.04);
+}
+
+.c17:hover {
+  background-color: rgba(25,118,210,0.04);
+}
+
+.c17.Mui-disabled {
+  background-color: transparent;
+  color: rgba(0,0,0,0.26);
+}
+
+.c6 {
+  margin: 0;
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 300;
+  font-size: 3.75rem;
+  line-height: 1.2;
+  -webkit-letter-spacing: -0.00833em;
+  -moz-letter-spacing: -0.00833em;
+  -ms-letter-spacing: -0.00833em;
+  letter-spacing: -0.00833em;
+  color: #00758e;
+}
+
+.c1 {
+  box-sizing: border-box;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  -ms-flex-wrap: wrap;
+  flex-wrap: wrap;
+  width: 100%;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  margin-top: -16px;
+  width: calc(100% + 16px);
+  margin-left: -16px;
+}
+
+.c1 > .MuiGrid-item {
+  padding-top: 16px;
+}
+
+.c1 > .MuiGrid-item {
+  padding-left: 16px;
+}
+
+.c2 {
+  box-sizing: border-box;
+  margin: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-basis: 66.666667%;
+  -ms-flex-preferred-size: 66.666667%;
+  flex-basis: 66.666667%;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  max-width: 66.666667%;
+}
+
+.c4 {
+  box-sizing: border-box;
+  margin: 0;
+  -webkit-flex-direction: row;
+  -ms-flex-direction: row;
+  flex-direction: row;
+  -webkit-flex-basis: 33.333333%;
+  -ms-flex-preferred-size: 33.333333%;
+  flex-basis: 33.333333%;
+  -webkit-box-flex: 0;
+  -webkit-flex-grow: 0;
+  -ms-flex-positive: 0;
+  flex-grow: 0;
+  max-width: 33.333333%;
+}
+
+.c7 {
+  display: table;
+  width: 100%;
+  border-collapse: collapse;
+  border-spacing: 0;
+  margin-top: 8px;
+}
+
+.c7 caption {
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 400;
+  font-size: 0.875rem;
+  line-height: 1.43;
+  -webkit-letter-spacing: 0.01071em;
+  -moz-letter-spacing: 0.01071em;
+  -ms-letter-spacing: 0.01071em;
+  letter-spacing: 0.01071em;
+  padding: 16px;
+  color: rgba(0,0,0,0.6);
+  text-align: left;
+  caption-side: bottom;
+}
+
+.c12 {
+  display: table-row-group;
+}
+
+.c10 {
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 500;
+  font-size: 0.875rem;
+  line-height: 1.5rem;
+  -webkit-letter-spacing: 0.01071em;
+  -moz-letter-spacing: 0.01071em;
+  -ms-letter-spacing: 0.01071em;
+  letter-spacing: 0.01071em;
+  display: table-cell;
+  vertical-align: inherit;
+  border-bottom: 1px solid rgba(224,224,224,1);
+  text-align: left;
+  padding: 16px;
+  color: rgba(0,0,0,0.87);
+}
+
+.c14 {
+  font-family: "Roboto","Helvetica","Arial",sans-serif;
+  font-weight: 400;
+  font-size: 0.875rem;
+  line-height: 1.43;
+  -webkit-letter-spacing: 0.01071em;
+  -moz-letter-spacing: 0.01071em;
+  -ms-letter-spacing: 0.01071em;
+  letter-spacing: 0.01071em;
+  display: table-cell;
+  vertical-align: inherit;
+  border-bottom: 1px solid rgba(224,224,224,1);
+  text-align: left;
+  padding: 16px;
+  color: rgba(0,0,0,0.87);
+}
+
+.c8 {
+  display: table-header-group;
+}
+
+.c9 {
+  color: inherit;
+  display: table-row;
+  vertical-align: middle;
+  outline: 0;
+}
+
+.c9.MuiTableRow-hover:hover {
+  background-color: rgba(0,0,0,0.04);
+}
+
+.c9.Mui-selected {
+  background-color: rgba(25,118,210,0.08);
+}
+
+.c9.Mui-selected:hover {
+  background-color: rgba(25,118,210,0.12);
+}
+
+.c11.MuiTableCell-head {
+  font-size: 13px;
+  font-weight: bold;
+  padding: 4px;
+  color: #686868;
+}
+
+.c11.MuiTableCell-body {
+  font-size: 13px;
+  font-weight: normal;
+  padding: 4px;
+  color: #686868;
+}
+
+.c13:last-child td,
+.c13:last-child th {
+  border: 0;
+}
+
+.c15 {
+  color: #1976d2;
+  -webkit-text-decoration: none;
+  text-decoration: none;
+}
+
+.c3 {
+  background-color: #fff;
+  color: #686868;
+}
+
+.c5 {
+  background-color: #fff;
+  padding: 8px;
+  text-align: end;
+  color: #00758e;
+  font-weight: 600;
+  -webkit-text-decoration: underline;
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+@media print {
+  .c16 {
+    color-adjust: exact;
+  }
+}
+
+@media (hover:none) {
+  .c17:hover {
+    background-color: transparent;
+  }
+}
+
+@media (hover:none) {
+  .c17:hover {
+    background-color: transparent;
+  }
+}
+
+@media (min-width:600px) {
+  .c2 {
+    -webkit-flex-basis: 66.666667%;
+    -ms-flex-preferred-size: 66.666667%;
+    flex-basis: 66.666667%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 66.666667%;
+  }
+}
+
+@media (min-width:900px) {
+  .c2 {
+    -webkit-flex-basis: 66.666667%;
+    -ms-flex-preferred-size: 66.666667%;
+    flex-basis: 66.666667%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 66.666667%;
+  }
+}
+
+@media (min-width:1200px) {
+  .c2 {
+    -webkit-flex-basis: 66.666667%;
+    -ms-flex-preferred-size: 66.666667%;
+    flex-basis: 66.666667%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 66.666667%;
+  }
+}
+
+@media (min-width:1536px) {
+  .c2 {
+    -webkit-flex-basis: 66.666667%;
+    -ms-flex-preferred-size: 66.666667%;
+    flex-basis: 66.666667%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 66.666667%;
+  }
+}
+
+@media (min-width:600px) {
+  .c4 {
+    -webkit-flex-basis: 33.333333%;
+    -ms-flex-preferred-size: 33.333333%;
+    flex-basis: 33.333333%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 33.333333%;
+  }
+}
+
+@media (min-width:900px) {
+  .c4 {
+    -webkit-flex-basis: 33.333333%;
+    -ms-flex-preferred-size: 33.333333%;
+    flex-basis: 33.333333%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 33.333333%;
+  }
+}
+
+@media (min-width:1200px) {
+  .c4 {
+    -webkit-flex-basis: 33.333333%;
+    -ms-flex-preferred-size: 33.333333%;
+    flex-basis: 33.333333%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 33.333333%;
+  }
+}
+
+@media (min-width:1536px) {
+  .c4 {
+    -webkit-flex-basis: 33.333333%;
+    -ms-flex-preferred-size: 33.333333%;
+    flex-basis: 33.333333%;
+    -webkit-box-flex: 0;
+    -webkit-flex-grow: 0;
+    -ms-flex-positive: 0;
+    flex-grow: 0;
+    max-width: 33.333333%;
+  }
+}
+
+<div>
+    <div
+      class="c0 MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation1"
+    >
+      <div
+        class="c1 MuiGrid-root MuiGrid-container MuiGrid-spacing-xs-2"
+      >
+        <div
+          class="c2 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-8"
+        >
+          <div
+            class="c3"
+          >
+            Author | PRODUCT MODEL
+          </div>
+        </div>
+        <div
+          class="c4 MuiGrid-root MuiGrid-item MuiGrid-grid-xs-4"
+        >
+          <div
+            class="c5"
+          >
+            Release Management
+          </div>
+        </div>
+      </div>
+      <h2
+        class="c6 MuiTypography-root MuiTypography-h2"
+      >
+        Orlando Castillo
+      </h2>
+      <table
+        class="c7 MuiTable-root"
+      >
+        <thead
+          class="c8 MuiTableHead-root"
+        >
+          <tr
+            class="c9 MuiTableRow-root MuiTableRow-head"
+          >
+            <th
+              class="c10 MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium c11"
+              scope="col"
+            >
+              Version
+            </th>
+            <th
+              class="c10 MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium c11"
+              scope="col"
+            >
+              Created By
+            </th>
+            <th
+              class="c10 MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium c11"
+              scope="col"
+            >
+              Last Updated At
+            </th>
+            <th
+              class="c10 MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium c11"
+              scope="col"
+            >
+              Source
+            </th>
+            <th
+              class="c10 MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium c11"
+              scope="col"
+            >
+              Template ID
+            </th>
+            <th
+              class="c10 MuiTableCell-root MuiTableCell-head MuiTableCell-sizeMedium c11"
+              scope="col"
+            />
+          </tr>
+        </thead>
+        <tbody
+          class="c12 MuiTableBody-root"
+        >
+          <tr
+            class="c9 MuiTableRow-root c13"
+          >
+            <td
+              class="c14 MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium c11"
+            >
+              <a
+                class="c15"
+                href="/templates/fea2d98d-3d90-4a4a-a385-8f3f66f29bab/search/b5a6cb07-c9b0-490e-a9c6-2d849477f164"
+              >
+                Version 
+                1
+              </a>
+            </td>
+            <td
+              class="c14 MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium c11"
+            >
+              Orlando Castillo
+            </td>
+            <td
+              class="c14 MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium c11"
+            >
+              Wed, May 25, 9:52 PM
+            </td>
+            <td
+              class="c14 MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium c11"
+            />
+            <td
+              class="c14 MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium c11"
+            >
+              cIMBVC1l
+            </td>
+            <td
+              class="c14 MuiTableCell-root MuiTableCell-body MuiTableCell-sizeMedium c11"
+            >
+              <span
+                aria-label="upload picture"
+                class="c16 MuiButtonBase-root c17 MuiIconButton-root MuiIconButton-colorPrimary MuiIconButton-sizeMedium"
+                data-testid="contextMenu"
+                role="button"
+                style="margin: 0px 15px 0px auto;"
+                tabindex="0"
+              >
+                <svg
+                  aria-hidden="true"
+                  class="c18 MuiSvgIcon-root MuiSvgIcon-colorPrimary MuiSvgIcon-fontSizeMedium"
+                  data-testid="MoreVertIcon"
+                  focusable="false"
+                  viewBox="0 0 24 24"
+                >
+                  <path
+                    d="M12 8c1.1 0 2-.9 2-2s-.9-2-2-2-2 .9-2 2 .9 2 2 2zm0 2c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2zm0 6c-1.1 0-2 .9-2 2s.9 2 2 2 2-.9 2-2-.9-2-2-2z"
+                  />
+                </svg>
+                <span
+                  class="c19 MuiTouchRipple-root"
+                />
+              </span>
+            </td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>,
+  "debug": [Function],
+  "findAllByAltText": [Function],
+  "findAllByDisplayValue": [Function],
+  "findAllByLabelText": [Function],
+  "findAllByPlaceholderText": [Function],
+  "findAllByRole": [Function],
+  "findAllByTestId": [Function],
+  "findAllByText": [Function],
+  "findAllByTitle": [Function],
+  "findByAltText": [Function],
+  "findByDisplayValue": [Function],
+  "findByLabelText": [Function],
+  "findByPlaceholderText": [Function],
+  "findByRole": [Function],
+  "findByTestId": [Function],
+  "findByText": [Function],
+  "findByTitle": [Function],
+  "getAllByAltText": [Function],
+  "getAllByDisplayValue": [Function],
+  "getAllByLabelText": [Function],
+  "getAllByPlaceholderText": [Function],
+  "getAllByRole": [Function],
+  "getAllByTestId": [Function],
+  "getAllByText": [Function],
+  "getAllByTitle": [Function],
+  "getByAltText": [Function],
+  "getByDisplayValue": [Function],
+  "getByLabelText": [Function],
+  "getByPlaceholderText": [Function],
+  "getByRole": [Function],
+  "getByTestId": [Function],
+  "getByText": [Function],
+  "getByTitle": [Function],
+  "queryAllByAltText": [Function],
+  "queryAllByDisplayValue": [Function],
+  "queryAllByLabelText": [Function],
+  "queryAllByPlaceholderText": [Function],
+  "queryAllByRole": [Function],
+  "queryAllByTestId": [Function],
+  "queryAllByText": [Function],
+  "queryAllByTitle": [Function],
+  "queryByAltText": [Function],
+  "queryByDisplayValue": [Function],
+  "queryByLabelText": [Function],
+  "queryByPlaceholderText": [Function],
+  "queryByRole": [Function],
+  "queryByTestId": [Function],
+  "queryByText": [Function],
+  "queryByTitle": [Function],
+  "rerender": [Function],
+  "unmount": [Function],
+}
+`;

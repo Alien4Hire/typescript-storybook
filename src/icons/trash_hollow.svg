@@ -1,0 +1,10 @@
+<svg id="EXPORT" xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24"><defs><style>.cls-1{fill:#080808;}</style></defs><title>trash</title>
+<path d="M9 8H11V18H9V8Z" fill="#00758E" />
+        <path d="M15 18V8H13V18H15Z" fill="#00758E" />
+        <path
+          fillRule="evenodd"
+          clipRule="evenodd"
+          d="M19 3H14V2H9.92V3H5C4.448 3 4 3.448 4 4V6H5V20.9333C5 21.5232 5.448 22 6 22H18C18.552 22 19 21.5232 19 20.9333V6H20V4C20 3.448 19.552 3 19 3ZM17 6H7V20H17V6Z"
+          fill="#00758E"
+        />
+</svg>
